@@ -1,19 +1,16 @@
+const fs = require('fs')
+const cssstats = require('cssstats')
 
-const basscssURL = 'https://unpkg.com/basscss@8.0.2/css/basscss.min.css'
+const basscss = 'basscss@8.0.2.min.css'
+const azDev = 'az-dev.css'
 
-console.log('basscssURL', basscssURL)
+const css = fs.readFileSync(azDev, 'utf8')
+// console.log('basscssMin', basscssMin)
+const stats = cssstats(css)
+// console.log('!!stats!!\n', stats)
 
+// console.log('stats.selectors.values\n', stats.selectors.values)
 
-const data = {}
-fetch(basscssURL)
-  .then(console.log('fetched!'))
-  .then(blob => console.log('blob.css', blob.type))
+const classes = stats.selectors.values
 
-// console.log('data', data)
-
-
-// data = []
-// fetch(basscssURL)
-//   .then(console.log('fetched!'))
-//   .then(blob => blob.json())
-//   .then(data => array.push(...data))
+classes.map(selector => {console.log(selector, '{}')})
