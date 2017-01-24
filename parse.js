@@ -11,6 +11,6 @@ const stats = cssstats(css)
 
 // console.log('stats.selectors.values\n', stats.selectors.values)
 
-const classes = stats.selectors.values
+const selectors = stats.selectors.values
 
-classes.map(selector => {console.log(selector, '{}')})
+selectors.map(selector => {console.log(selector, '{}')})
