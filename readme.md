@@ -27,7 +27,8 @@ functionalities to create:
   - Basscss
     - http://basscss.com/customize/
     - https://github.com/basscss/customize
-  - CSS Vocabulary, http://apps.workflower.fi/vocabs/css/en#rule-set
+  - CSS Vocabulary
+    - http://apps.workflower.fi/vocabs/css/en#rule-set
   - CSS PROPERTIES aergh&^$#@!!:
     - https://developer.mozilla.org/en-US/docs/Web/CSS/Reference#Keyword_index
     - http://www.blooberry.com/indexdot/css/propindex/all.htm
@@ -36,7 +37,6 @@ functionalities to create:
     - https://css-tricks.com/almanac/properties/
     - http://www.w3schools.com/cssref/
     - https://github.com/johnotander/css-properties/blob/master/build.js
-
   - read and write, and hopefully download, to file w/ js:
     - http://stackoverflow.com/questions/585234/how-to-read-and-write-into-file-using-javascript
     - https://developer.mozilla.org/en-US/docs/Web/API/File_Handle_API
@@ -49,10 +49,3 @@ functionalities to create:
     - https://github.com/cssstats
     - https://github.com/cssstats/cli
     - https://github.com/cssstats/get-css
-  - Image optimization:
-    - https://www.jpeg.io/
-    - http://getoptimage.com/
-    - https://chrome.google.com/webstore/detail/tinybeest-image-optimizat/iddlfhoicnaonfnepnjogldeaifkocae
-    - http://cloudinary.com/blog/the_holy_grail_of_image_optimization_or_balancing_visual_quality_and_file_size
-    - http://optimizilla.com/
-    - http://www.imageoptimizer.net/Pages/Home.aspx
