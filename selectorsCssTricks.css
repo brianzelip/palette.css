@@ -1,0 +1,2196 @@
+* {}
+*::after {}
+*::before {}
+a {}
+article {}
+aside {}
+details {}
+figcaption {}
+figure {}
+footer {}
+header {}
+hgroup {}
+nav {}
+section {}
+summary {}
+audio {}
+canvas {}
+video {}
+audio:not([controls]) {}
+[hidden] {}
+html {}
+body {}
+dl {}
+menu {}
+ol {}
+ul {}
+dd {}
+menu {}
+ol {}
+ul {}
+nav ul {}
+nav ol {}
+img {}
+svg:not(:root) {}
+figure {}
+form {}
+fieldset {}
+legend {}
+button {}
+input {}
+select {}
+textarea {}
+button {}
+input {}
+button {}
+html input[type="button"] {}
+input[type="reset"] {}
+input[type="submit"] {}
+button[disabled] {}
+input[disabled] {}
+input[type="checkbox"] {}
+input[type="radio"] {}
+input[type="search"] {}
+input[type="search"]::-webkit-search-cancel-button {}
+input[type="search"]::-webkit-search-decoration {}
+button::-moz-focus-inner {}
+input::-moz-focus-inner {}
+textarea {}
+body:not(.woocommerce-page) table:not(.gsc-table-result):not(.gcsc-branding):not(.gsc-resultsHeader) {}
+body:not(.woocommerce-page) table:not(.gsc-table-result):not(.gcsc-branding):not(.gsc-resultsHeader) {}
+body:not(.woocommerce-page) table:not(.gsc-table-result):not(.gcsc-branding):not(.gsc-resultsHeader) th {}
+body:not(.woocommerce-page) table:not(.gsc-table-result):not(.gcsc-branding):not(.gsc-resultsHeader) td {}
+body:not(.woocommerce-page) table:not(.gsc-table-result):not(.gcsc-branding):not(.gsc-resultsHeader) th {}
+body:not(.woocommerce-page) table:not(.gsc-table-result):not(.gcsc-branding):not(.gsc-resultsHeader) tr:nth-child(odd) {}
+body:not(.woocommerce-page) table:not(.gsc-table-result):not(.gcsc-branding):not(.gsc-resultsHeader) tr:nth-child(even) {}
+body:not(.woocommerce-page) table:not(.gsc-table-result):not(.gcsc-branding):not(.gsc-resultsHeader) tr:first-child th {}
+body:not(.woocommerce-page) table:not(.gsc-table-result):not(.gcsc-branding):not(.gsc-resultsHeader) tr:last-child td {}
+body:not(.woocommerce-page) table:not(.gsc-table-result):not(.gcsc-branding):not(.gsc-resultsHeader) tr td:first-child {}
+body:not(.woocommerce-page) table:not(.gsc-table-result):not(.gcsc-branding):not(.gsc-resultsHeader) tr th:first-child {}
+body:not(.woocommerce-page) table:not(.gsc-table-result):not(.gcsc-branding):not(.gsc-resultsHeader) tr td:last-child {}
+body:not(.woocommerce-page) table:not(.gsc-table-result):not(.gcsc-branding):not(.gsc-resultsHeader) tr th:last-child {}
+body:not(.woocommerce-page) table.overflow-table body:not(.woocommerce-page) table.overflow-table td {}
+body:not(.woocommerce-page) .overflow-table-wrap {}
+body:not(.woocommerce-page) .overflow-table-wrap {}
+body:not(.woocommerce-page) .overflow-table-wrap>table.overflow-table:not(.gsc-table-result):not(.gcsc-branding):not(.gsc-resultsHeader) {}
+body:not(.woocommerce-page) .overflow-table-wrap>table.overflow-table:not(.gsc-table-result):not(.gcsc-branding):not(.gsc-resultsHeader) table {}
+html {}
+html {}
+html {}
+html {}
+a {}
+a:hover {}
+a:focus {}
+a:active {}
+h1 {}
+.breadcrumbs-header .breadcrumb_last {}
+h2 {}
+h3 {}
+h4 {}
+h5 {}
+h6 {}
+h1 a {}
+.breadcrumbs-header .breadcrumb_last a {}
+h2 a {}
+h3 a {}
+h4 a {}
+h5 a {}
+h6 a {}
+h1 a:hover {}
+.breadcrumbs-header .breadcrumb_last a:hover {}
+h1 a:focus {}
+.breadcrumbs-header .breadcrumb_last a:focus {}
+h2 a:hover {}
+h2 a:focus {}
+h3 a:hover {}
+h3 a:focus {}
+h4 a:hover {}
+h4 a:focus {}
+h5 a:hover {}
+h5 a:focus {}
+h6 a:hover {}
+h6 a:focus {}
+h1 a:hover .shape-arrow-right {}
+.breadcrumbs-header .breadcrumb_last a:hover .shape-arrow-right {}
+h1 a:focus .shape-arrow-right {}
+.breadcrumbs-header .breadcrumb_last a:focus .shape-arrow-right {}
+h2 a:hover .shape-arrow-right {}
+h2 a:focus .shape-arrow-right {}
+h3 a:hover .shape-arrow-right {}
+h3 a:focus .shape-arrow-right {}
+h4 a:hover .shape-arrow-right {}
+h4 a:focus .shape-arrow-right {}
+h5 a:hover .shape-arrow-right {}
+h5 a:focus .shape-arrow-right {}
+h6 a:hover .shape-arrow-right {}
+h6 a:focus .shape-arrow-right {}
+h1 .shape-arrow-right {}
+.breadcrumbs-header .breadcrumb_last .shape-arrow-right {}
+h2 .shape-arrow-right {}
+h3 .shape-arrow-right {}
+h4 .shape-arrow-right {}
+h5 .shape-arrow-right {}
+h6 .shape-arrow-right {}
+h1 .shape-arrow-right {}
+.breadcrumbs-header .breadcrumb_last .shape-arrow-right {}
+h2 .shape-arrow-right {}
+h3 .shape-arrow-right {}
+h4 .shape-arrow-right {}
+h5 .shape-arrow-right {}
+h6 .shape-arrow-right {}
+h1 .shape-link {}
+.breadcrumbs-header .breadcrumb_last .shape-link {}
+h2 .shape-link {}
+h3 .shape-link {}
+h4 .shape-link {}
+h5 .shape-link {}
+h6 .shape-link {}
+h1 .shape-link {}
+.breadcrumbs-header .breadcrumb_last .shape-link {}
+h2 .shape-link {}
+h3 .shape-link {}
+h4 .shape-link {}
+h5 .shape-link {}
+h6 .shape-link {}
+h1 {}
+.breadcrumbs-header .breadcrumb_last {}
+.h1 {}
+h1 {}
+.breadcrumbs-header .breadcrumb_last {}
+.h1 {}
+h1 {}
+.breadcrumbs-header .breadcrumb_last {}
+.h1 {}
+h1 {}
+.breadcrumbs-header .breadcrumb_last {}
+.h1 {}
+h2 {}
+.h2 {}
+h2 {}
+.h2 {}
+h2 {}
+.h2 {}
+h2 {}
+.h2 {}
+h3 {}
+.h3 {}
+h3 {}
+.h3 {}
+h3 {}
+.h3 {}
+h3 {}
+.h3 {}
+.single h3:not(:first-child) {}
+.page-template-page-almanac-single-php h3:not(:first-child) {}
+.module-main h3:not(:first-child) {}
+.single .h3:not(:first-child) {}
+.page-template-page-almanac-single-php .h3:not(:first-child) {}
+.module-main .h3:not(:first-child) {}
+h4 {}
+.h4 {}
+h4 {}
+.h4 {}
+h4 {}
+.h4 {}
+h4 {}
+.h4 {}
+h5 {}
+.h5 {}
+h6 {}
+.site-section-title {}
+.bar-time {}
+.bar-time a {}
+.byline {}
+.byline a {}
+.second-bar::after {}
+.mega-header .second-bar::after {}
+.second-bar::after .avatar {}
+.author-byline {}
+.author-byline a {}
+abbr[title] {}
+b {}
+strong {}
+blockquote {}
+blockquote::before {}
+blockquote::after {}
+blockquote::before {}
+blockquote::after {}
+blockquote p:last-child {}
+body.single article p:first-of-type .explanation {}
+body.single article p:first-of-type .explanation::before {}
+body.single article p:first-of-type .explanation::after {}
+body.single article p:first-of-type .explanation::before {}
+body.single article p:first-of-type .explanation::after {}
+article p:not(:first-of-type) .explanation {}
+article div.explanation {}
+article p.explanation {}
+article div.explanation {}
+body.home .explanation {}
+dfn {}
+mark {}
+p {}
+pre {}
+figure {}
+pre {}
+body.single article pre {}
+body.single article pre {}
+pre[rel] {}
+pre[rel]::before {}
+pre[rel] {}
+pre[rel]::before {}
+pre code {}
+pre[rel="CSS"]::before {}
+pre[rel="HTML"]::before {}
+pre[rel="jQuery"]::before {}
+pre[rel="JavaScript"]::before {}
+pre[rel="JSX"]::before {}
+pre[rel="JavaScript"]::before {}
+pre code {}
+pre code::-webkit-scrollbar {}
+pre code::-webkit-scrollbar-thumb {}
+pre code::-webkit-scrollbar-track {}
+body pre code {}
+pre {}
+pre code {}
+.line-highlight {}
+.line-highlight {}
+.line-highlight {}
+p>code {}
+li>code {}
+dd>code {}
+td>code {}
+small {}
+sub {}
+sup {}
+sup {}
+sub {}
+.feature-comments.unfeature {}
+.feature-comments.unbury {}
+.feature-comments {}
+.featured.feature-comments.feature {}
+.featured.feature-comments.unfeature {}
+.buried.feature-comments.bury {}
+.buried.feature-comments.unbury {}
+#the-comment-list tr.featured {}
+#the-comment-list tr.buried {}
+#bbpress-forums .featured-replies.unfeature {}
+#bbpress-forums .featured-replies.unbury {}
+.featured-replies.unfeature {}
+.featured-replies.unbury {}
+#bbpress-forums .featured-replies {}
+.featured-replies {}
+#bbpress-forums .featured.featured-replies.feature {}
+.featured.featured-replies.feature {}
+#bbpress-forums .featured.featured-replies.unfeature {}
+.featured.featured-replies.unfeature {}
+#bbpress-forums .buried.featured-replies.bury {}
+.buried.featured-replies.bury {}
+#bbpress-forums .buried.featured-replies.unbury {}
+.buried.featured-replies.unbury {}
+.post-type-reply #the-list tr.featured {}
+.post-type-reply #the-list tr.buried {}
+.group:after {}
+.forum-titles:after {}
+.forums-module>.reply:after {}
+.screen-reader {}
+.screen-reader-text {}
+p:empty {}
+#wpadminbar .ab-label {}
+.hide {}
+.center {}
+.product_meta>span {}
+.token.comment {}
+.token.prolog {}
+.token.doctype {}
+.token.cdata {}
+.token.punctuation {}
+.token.tag {}
+.token.attr-name {}
+.token.property {}
+.token.boolean {}
+.token.number {}
+.token.selector {}
+.token.operator {}
+.token.entity {}
+.token.url {}
+.language-css .token.string {}
+.style .token.string {}
+.token.atrule {}
+.token.attr-value {}
+.token.keyword {}
+.token.string {}
+.token.regex {}
+.token.important {}
+.language-css {}
+.language-css .token.punctuation {}
+.button {}
+#wp_page_numbers li a {}
+.gsc-cursor-box .gsc-cursor-page {}
+.bbp-pagination .page-numbers {}
+#rcp_submit {}
+#rcp_update_card {}
+.button:not(.disabled):hover {}
+#wp_page_numbers li a:not(.disabled):hover {}
+.gsc-cursor-box .gsc-cursor-page:not(.disabled):hover {}
+.bbp-pagination .page-numbers:not(.disabled):hover {}
+.button:not(.disabled):focus {}
+#wp_page_numbers li a:not(.disabled):focus {}
+.gsc-cursor-box .gsc-cursor-page:not(.disabled):focus {}
+.bbp-pagination .page-numbers:not(.disabled):focus {}
+.button.active {}
+#wp_page_numbers li a.active {}
+.gsc-cursor-box .active.gsc-cursor-page {}
+.bbp-pagination .active.page-numbers {}
+#rcp_submit:not(.disabled):hover {}
+#rcp_submit:not(.disabled):focus {}
+#rcp_submit.active {}
+#rcp_update_card:not(.disabled):hover {}
+#rcp_update_card:not(.disabled):focus {}
+#rcp_update_card.active {}
+.button:not(.disabled):active {}
+#wp_page_numbers li a:not(.disabled):active {}
+.gsc-cursor-box .gsc-cursor-page:not(.disabled):active {}
+.bbp-pagination .page-numbers:not(.disabled):active {}
+#rcp_submit:not(.disabled):active {}
+#rcp_update_card:not(.disabled):active {}
+.button.disabled {}
+#wp_page_numbers li a.disabled {}
+.gsc-cursor-box .disabled.gsc-cursor-page {}
+.bbp-pagination .disabled.page-numbers {}
+#rcp_submit.disabled {}
+#rcp_update_card.disabled {}
+.button.button-small {}
+#wp_page_numbers li a.button-small {}
+.gsc-cursor-box .button-small.gsc-cursor-page {}
+.bbp-pagination .button-small.page-numbers {}
+#rcp_submit.button-small {}
+#rcp_update_card.button-small {}
+.button.button-header {}
+#wp_page_numbers li a.button-header {}
+.gsc-cursor-box .button-header.gsc-cursor-page {}
+.bbp-pagination .button-header.page-numbers {}
+#rcp_submit.button-header {}
+#rcp_update_card.button-header {}
+.full-width-button {}
+.fake-a {}
+.button-wrap {}
+.search .search-field {}
+#mc-embedded-subscribe-form .mailchimp-email-input {}
+.search .search-field:focus {}
+#mc-embedded-subscribe-form .mailchimp-email-input:focus {}
+input[type='text'] {}
+input[type='search'] {}
+input[type='url'] {}
+input[type='email'] {}
+input[type='text'] {}
+input[type='password'] {}
+textarea {}
+textarea {}
+input[type=radio] {}
+.wp-polls input[type=radio] {}
+.fullwidth {}
+.full-width-form input[type='text'] {}
+.full-width-form input[type='search'] {}
+.full-width-form input[type='url'] {}
+.full-width-form input[type='email'] {}
+.full-width-form input[type='text'] {}
+.full-width-form input[type='password'] {}
+.full-width-form textarea {}
+.full-width-form label {}
+.subscribe-label {}
+fieldset {}
+fieldset legend {}
+.mailchimp-in-content-subscribe-form {}
+.mailchimp-in-content-subscribe-form #mce-EMAIL {}
+body {}
+.page-wrap {}
+.page-wrap {}
+.page-wrap-article {}
+.main-and-sidebar-wrap {}
+.main-and-sidebar-wrap.with-col-spacing .main-col {}
+.main-and-sidebar-wrap.with-col-spacing .main-col {}
+.main-and-sidebar-wrap.two-col .main-col {}
+.main-and-sidebar-wrap.two-col .sidebar {}
+body.tag .main-and-sidebar-wrap {}
+.main-col {}
+.sidebar {}
+.sidebar-article {}
+.sidebar-newsletters {}
+.full-col {}
+.full-col>.module {}
+.job.full-col>a {}
+.woocommerce .full-col>div.product {}
+.full-col>.type-forum {}
+.full-col>.type-topic {}
+.full-col>.type-reply {}
+.full-col {}
+.full-col article.module+article.module {}
+.full-col article.type-forum+article.module {}
+.full-col article.type-topic+article.module {}
+.full-col article.type-reply+article.module {}
+.full-col article.module+article.type-forum {}
+.full-col article.type-forum+article.type-forum {}
+.full-col article.type-topic+article.type-forum {}
+.full-col article.type-reply+article.type-forum {}
+.full-col article.module+article.type-topic {}
+.full-col article.type-forum+article.type-topic {}
+.full-col article.type-topic+article.type-topic {}
+.full-col article.type-reply+article.type-topic {}
+.full-col article.module+article.type-reply {}
+.full-col article.type-forum+article.type-reply {}
+.full-col article.type-topic+article.type-reply {}
+.full-col article.type-reply+article.type-reply {}
+.main-and-sidebar-wrap {}
+.main-col {}
+.sidebar {}
+.sidebar {}
+.pagination {}
+.pagination a {}
+.article-header-background {}
+.jagged-top-of-article {}
+.grid {}
+.grid {}
+.grid .comment [class*='grid-'] {}
+.grid-1-8 {}
+.grid-1-6 {}
+.grid-1-5 {}
+.grid-1-4 {}
+.grid-1-3 {}
+.grid-1-2 {}
+.grid-1-1 {}
+.grid-2-3 {}
+.grid-3-4 {}
+.grid-4-5 {}
+.grid-5-6 {}
+.grid-7-8 {}
+.grid [class*='grid-'] {}
+.grid [class*='grid-']:last-child {}
+.grid [class*='grid-'] {}
+.grid [class*='grid-'] {}
+.no-relative {}
+.is-relative {}
+.module {}
+.job>a {}
+.woocommerce div.product {}
+.type-forum {}
+.type-topic {}
+.type-reply {}
+aside .module {}
+aside .job>a {}
+aside .woocommerce div.product {}
+.woocommerce aside div.product {}
+aside .type-forum {}
+aside .type-topic {}
+aside .type-reply {}
+body.single-post aside.sidebar .module {}
+body.single-post aside.sidebar .job>a {}
+body.single-post aside.sidebar .woocommerce div.product {}
+.woocommerce body.single-post aside.sidebar div.product {}
+body.single-post aside.sidebar .type-forum {}
+body.single-post aside.sidebar .type-topic {}
+body.single-post aside.sidebar .type-reply {}
+body.page-template-page-almanac-single-php aside.sidebar .module {}
+body.page-template-page-almanac-single-php aside.sidebar .job>a {}
+body.page-template-page-almanac-single-php aside.sidebar .woocommerce div.product {}
+.woocommerce body.page-template-page-almanac-single-php aside.sidebar div.product {}
+body.page-template-page-almanac-single-php aside.sidebar .type-forum {}
+body.page-template-page-almanac-single-php aside.sidebar .type-topic {}
+body.page-template-page-almanac-single-php aside.sidebar .type-reply {}
+body.page-template-page-snippet-php aside.sidebar .module {}
+body.page-template-page-snippet-php aside.sidebar .job>a {}
+body.page-template-page-snippet-php aside.sidebar .woocommerce div.product {}
+.woocommerce body.page-template-page-snippet-php aside.sidebar div.product {}
+body.page-template-page-snippet-php aside.sidebar .type-forum {}
+body.page-template-page-snippet-php aside.sidebar .type-topic {}
+body.page-template-page-snippet-php aside.sidebar .type-reply {}
+.module>:last-child {}
+.job>a>:last-child {}
+.woocommerce div.product>:last-child {}
+.type-forum>:last-child {}
+.type-topic>:last-child {}
+.type-reply>:last-child {}
+.module>:last-child>:last-child {}
+.job>a>:last-child>:last-child {}
+.woocommerce div.product>:last-child>:last-child {}
+.type-forum>:last-child>:last-child {}
+.type-topic>:last-child>:last-child {}
+.type-reply>:last-child>:last-child {}
+.module .attachment-post-thumbnail {}
+.job>a .attachment-post-thumbnail {}
+.woocommerce div.product .attachment-post-thumbnail {}
+.type-forum .attachment-post-thumbnail {}
+.type-topic .attachment-post-thumbnail {}
+.type-reply .attachment-post-thumbnail {}
+.module>.module-content {}
+.job>a>.module-content {}
+.woocommerce div.product>.module-content {}
+.type-forum>.module-content {}
+.type-topic>.module-content {}
+.type-reply>.module-content {}
+.module {}
+.job>a {}
+.woocommerce div.product {}
+.type-forum {}
+.type-topic {}
+.type-reply {}
+.module>.module-content {}
+.job>a>.module-content {}
+.woocommerce div.product>.module-content {}
+.type-forum>.module-content {}
+.type-topic>.module-content {}
+.type-reply>.module-content {}
+.module-padded {}
+aside .module-padded {}
+.module-main {}
+.module-main {}
+.article-card-header {}
+.article-card-header .link-graphic {}
+.article-card-header .icon-link {}
+.article-card-header .article-card-title {}
+.article-card-header .article-card-title h2 {}
+.tags {}
+.tags .icon-tag {}
+.tags a {}
+.tags a:hover {}
+.tags a:focus {}
+.tags {}
+.module-sponsored::after {}
+.video-module-thumbnail {}
+.job-list {}
+.job-list>li {}
+.job-list>li a {}
+.job-list>li a:hover {}
+.job-list>li a:focus {}
+.job-list>li a:hover strong {}
+.job-list>li a:focus strong {}
+.module-ad {}
+.module-ad iframe {}
+.module-ad a {}
+.module-ad img {}
+.site-header {}
+.site-header {}
+.header-content {}
+.header-content {}
+.logo-link {}
+.logo-link {}
+.logo-link {}
+.site-header-background {}
+.site-header-background {}
+.jagged-top {}
+.search-form {}
+.flexy-search {}
+.search-button {}
+.search-opener-button {}
+.search-opener-button {}
+body.search-is-open .search-opener-button:hover {}
+body.search-is-open .search-opener-button:focus {}
+body.search-is-open .search-opener-button .icon-close {}
+body.search-is-open .search-opener-button .icon-search {}
+.icon-search {}
+.icon-close {}
+.search {}
+.search .search-field {}
+.search {}
+body.search-is-open .search {}
+.mobile-menu-toggle {}
+.mobile-menu-toggle .icon-menu {}
+.mobile-menu-toggle {}
+.user-account-area {}
+.user-account-area>img {}
+.user-account-area:hover .user-dropdown {}
+.user-dropdown {}
+.user-dropdown>li {}
+.user-dropdown>li>a {}
+.user-dropdown>li>a:hover {}
+.user-dropdown>li>a:focus {}
+.main-nav {}
+.main-nav>ul>li {}
+.main-nav>ul>li>a {}
+.main-nav>ul>li>a:hover {}
+.main-nav>ul>li>a:focus {}
+.main-nav {}
+.main-nav>ul {}
+.main-nav>ul>li {}
+.main-nav>ul>li>a {}
+.main-nav>ul>li>a:hover {}
+.main-nav>ul>li>a:focus {}
+.main-nav.open {}
+body.home .main-nav>ul>li.home a::after {}
+body.page-template-video-archive-php .main-nav>ul>li.videos a::after {}
+body.page-template-video-single-php .main-nav>ul>li.videos a::after {}
+body.page-template-page-almanac-group-php .main-nav>ul>li.almanac a::after {}
+body.page-template-page-almanac-single-php .main-nav>ul>li.almanac a::after {}
+body.post-type-archive-screenshot .main-nav>ul>li.gallery a::after {}
+body.single-screenshot .main-nav>ul>li.gallery a::after {}
+body.page-template-page-snippet-cat-php .main-nav>ul>li.snippets a::after {}
+body.page-template-page-snippet-php .main-nav>ul>li.snippets a::after {}
+body.bbpress .main-nav>ul>li.forums a::after {}
+body.woocommerce .main-nav>ul>li.shop a::after {}
+body.page-template-page-lodge .main-nav>ul>li.lodge a::after {}
+body.page-template-jobs .main-nav>ul>li.jobs a::after {}
+body.page-template-page-newsletters .main-nav>ul>li.newsletter a::after {}
+.mega-header {}
+.mega-header h1 {}
+.mega-header .breadcrumbs-header .breadcrumb_last {}
+.breadcrumbs-header .mega-header .breadcrumb_last {}
+.mega-header p {}
+.mega-header .time {}
+.mega-header time {}
+.mega-header .avatar {}
+.mega-header a:hover {}
+.mega-header a:active {}
+.mega-header {}
+.mega-header-author .avatar {}
+figure {}
+figure {}
+figure>figcaption {}
+figure>img {}
+figure.can-be-enlarged img {}
+figure.can-be-enlarged img:hover {}
+figure.enlarge {}
+figure.enlarge img {}
+figure.enlarge figcaption {}
+img {}
+hr {}
+article ul {}
+article ol {}
+.comment-content ul {}
+.comment-content ol {}
+.bbp-reply-content ul {}
+.bbp-reply-content ol {}
+.text ul {}
+.text ol {}
+article ul {}
+article ul ul {}
+article ol ul {}
+.comment-content ul {}
+.comment-content ul ul {}
+.comment-content ol ul {}
+.bbp-reply-content ul {}
+.bbp-reply-content ul ul {}
+.bbp-reply-content ol ul {}
+.text ul {}
+.text ul ul {}
+.text ol ul {}
+article ol {}
+article ul ol {}
+article ol ol {}
+.comment-content ol {}
+.comment-content ul ol {}
+.comment-content ol ol {}
+.bbp-reply-content ol {}
+.bbp-reply-content ul ol {}
+.bbp-reply-content ol ol {}
+.text ol {}
+.text ul ol {}
+.text ol ol {}
+article ul ul {}
+article ol ul {}
+article ol ol {}
+article ul ol {}
+.comment-content ul ul {}
+.comment-content ol ul {}
+.comment-content ol ol {}
+.comment-content ul ol {}
+.bbp-reply-content ul ul {}
+.bbp-reply-content ol ul {}
+.bbp-reply-content ol ol {}
+.bbp-reply-content ul ol {}
+.text ul ul {}
+.text ol ul {}
+.text ol ol {}
+.text ul ol {}
+article li {}
+.comment-content li {}
+.bbp-reply-content li {}
+.text li {}
+article li p {}
+.comment-content li p {}
+.bbp-reply-content li p {}
+.text li p {}
+article h3.has-header-link {}
+article h4.has-header-link {}
+article h3.has-header-link .article-headline-link {}
+article h4.has-header-link .article-headline-link {}
+.drag-wrap {}
+.drag-wrap>.cover {}
+.drag-wrap iframe {}
+.drag-wrap .ui-resizable-handle {}
+.comment-content .drag-wrap {}
+.drag-wrap .cp_embed_iframe {}
+.cp_embed_iframe {}
+.cp_embed_iframe {}
+.caniuse-agents-list {}
+.caniuse-agents-list>li {}
+.caniuse-agents-list>li::before {}
+.caniuse-agents-list>li.y {}
+.caniuse-agents-list>li.n {}
+.caniuse-agents-list>li.a {}
+.caniuse-agents-list>li.icon-chrome::before {}
+.caniuse-agents-list>li.icon-firefox::before {}
+.caniuse-agents-list>li.icon-ie::before {}
+.caniuse-agents-list>li.icon-opera::before {}
+.caniuse-agents-list>li.icon-safari::before {}
+.caniuse-agents-list>li.icon-ios_saf::before {}
+.caniuse-agents-list>li.icon-android::before {}
+.caniuse-agents-list>li.icon-op_mob::before {}
+.caniuse-agents-list>li.icon-and_chr::before {}
+.caniuse-agents-list>li.icon-and_ff::before {}
+.caniuse-agents-list>li>span {}
+.sd-title {}
+.share-end {}
+.sharedaddy {}
+.sharedaddy ul {}
+.sharedaddy ul::before {}
+.sharedaddy li {}
+.sharedaddy a {}
+.sharedaddy a:hover {}
+.sharedaddy a:focus {}
+#comments {}
+#comments {}
+.comments-title {}
+.commentlist {}
+.respond {}
+.respond {}
+.comment-reminders>div {}
+.comment-reminders>div p {}
+.commentlist>.comment {}
+.CommentForm>.comment {}
+.comment ul>.comment {}
+.commentlist>.comment.featured {}
+.CommentForm>.comment.featured {}
+.comment ul>.comment.featured {}
+.commentlist>.comment.bypostauthor {}
+.commentlist>.comment.comment-author-chriscoyier {}
+.CommentForm>.comment.bypostauthor {}
+.CommentForm>.comment.comment-author-chriscoyier {}
+.comment ul>.comment.bypostauthor {}
+.comment ul>.comment.comment-author-chriscoyier {}
+.commentlist>.comment.buried {}
+.CommentForm>.comment.buried {}
+.comment ul>.comment.buried {}
+.commentlist>.comment.buried:hover {}
+.commentlist>.comment.buried:focus {}
+.CommentForm>.comment.buried:hover {}
+.CommentForm>.comment.buried:focus {}
+.comment ul>.comment.buried:hover {}
+.comment ul>.comment.buried:focus {}
+.commentlist>.comment.buried .reply {}
+.CommentForm>.comment.buried .reply {}
+.comment ul>.comment.buried .reply {}
+.commentlist>.comment .comment {}
+.CommentForm>.comment .comment {}
+.comment ul>.comment .comment {}
+.commentlist>.comment {}
+.CommentForm>.comment {}
+.comment ul>.comment {}
+.commentlist>.comment .grid {}
+.CommentForm>.comment .grid {}
+.comment ul>.comment .grid {}
+.commentlist>.comment .comment {}
+.CommentForm>.comment .comment {}
+.comment ul>.comment .comment {}
+.commentlist .comment-avatar img {}
+.CommentForm .comment-avatar img {}
+.comment ul .comment-avatar img {}
+.commentlist .comment-avatar {}
+.CommentForm .comment-avatar {}
+.comment ul .comment-avatar {}
+.commentlist .comment-body {}
+.CommentForm .comment-body {}
+.comment ul .comment-body {}
+.commentlist .comment-body time {}
+.CommentForm .comment-body time {}
+.comment ul .comment-body time {}
+.commentlist .comment-body {}
+.CommentForm .comment-body {}
+.comment ul .comment-body {}
+.commentlist .children .comment-body time {}
+.CommentForm .children .comment-body time {}
+.comment ul .children .comment-body time {}
+.commentlist .comment-content {}
+.CommentForm .comment-content {}
+.comment ul .comment-content {}
+.commentlist .comment-content {}
+.CommentForm .comment-content {}
+.comment ul .comment-content {}
+.commentlist .edit-link {}
+.CommentForm .edit-link {}
+.comment ul .edit-link {}
+.commentlist .feature-bury-actions {}
+.CommentForm .feature-bury-actions {}
+.comment ul .feature-bury-actions {}
+.commentlist .feature-bury-actions a {}
+.CommentForm .feature-bury-actions a {}
+.comment ul .feature-bury-actions a {}
+.commentlist .reply {}
+.CommentForm .reply {}
+.comment ul .reply {}
+.commentlist .reply {}
+.CommentForm .reply {}
+.comment ul .reply {}
+.commentlist .children {}
+.CommentForm .children {}
+.comment ul .children {}
+.commentlist .comment .respond {}
+.CommentForm .comment .respond {}
+.comment ul .comment .respond {}
+.commentlist .comment .respond .comments-title {}
+.CommentForm .comment .respond .comments-title {}
+.comment ul .comment .respond .comments-title {}
+.commentlist .respond [class*='grid-'] {}
+.CommentForm .respond [class*='grid-'] {}
+.comment ul .respond [class*='grid-'] {}
+.commentlist .respond .commenter-inputs {}
+.CommentForm .respond .commenter-inputs {}
+.comment ul .respond .commenter-inputs {}
+.comment-author {}
+.comment-time {}
+.commenter-inputs {}
+.commenter-inputs input {}
+.commenter-inputs>[class*="grid-"] {}
+.commenter-inputs {}
+.commenter-inputs input {}
+#comment {}
+.comment-form-button-wrap {}
+#cancel-comment-reply-link {}
+.comment-subscription-form {}
+.comment .comment-subscription-form {}
+.comment-subscription-form:last-of-type {}
+.view-comments-button {}
+.view-comments-button {}
+.markdown-comment-preview {}
+.preview-buttons {}
+.commentPreviewButton {}
+.commentPreviewButton.active {}
+.textarea-usage {}
+.posting-code {}
+.posting-code ul {}
+.posting-code pre {}
+.posting-code pre code {}
+.posting-code code {}
+.posting-code a {}
+.comment-subscription-form+.comment-subscription-form {}
+.mc4wp-checkbox-wp-comment-form input[type="checkbox"] {}
+.comments-closed {}
+.comments-closed a:hover {}
+.comments-closed a:focus {}
+.breadcrumbs {}
+.breadcrumbs a {}
+.breadcrumbs a:hover {}
+.breadcrumbs a:focus {}
+.breadcrumbs a {}
+.breadcrumbs a::after {}
+.breadcrumbs {}
+.breadcrumbs-top {}
+.breadcrumbs-top {}
+.breadcrumbs-header {}
+.breadcrumbs-header a {}
+.breadcrumbs-header .breadcrumb_last {}
+.breadcrumbs-header .breadcrumb_last {}
+.breadcrumbs-header {}
+.breadcrumbs-header strong {}
+.breadcrumbs-last-updated .breadcrumb_last {}
+#wp_page_numbers {}
+#wp_page_numbers ul {}
+#wp_page_numbers li {}
+#wp_page_numbers li a:hover {}
+#wp_page_numbers li a:focus {}
+#wp_page_numbers li.active_page a {}
+#wp_page_numbers li.space {}
+nav.navigation {}
+nav.navigation a:nth-of-type(1) {}
+nav.navigation a:nth-of-type(2) {}
+.newsletter-footer {}
+.newsletter-footer h4 {}
+.site-footer-newsletter-background {}
+.jagged-top-newsletter {}
+.mc-field-group {}
+#mc-embedded-subscribe-form {}
+#mc-embedded-subscribe-form .mailchimp-email-input {}
+#mc-embedded-subscribe-form .subscribe-button {}
+#mc-embedded-subscribe-form .flexy-search {}
+.icon-email {}
+.icon-email {}
+.site-footer {}
+.site-footer-inside {}
+.site-footer-inside nav a {}
+.site-footer-inside nav a:hover {}
+.site-footer-inside nav a:focus {}
+.site-footer-inside nav:nth-of-type(1) {}
+.site-footer-inside {}
+.site-footer-links-background {}
+.jagged-top-links {}
+.colophon {}
+.colophon a {}
+.colophon {}
+.wufoo-ad-6 {}
+.wufoo-ad-6 text {}
+.wufoo-ad-6 .wufoo-logo path {}
+.wufoo-ad-6 #dino {}
+.module-media-temple svg#media-temple-ad {}
+.module-media-temple #all-text {}
+.module-media-temple #all-backgrounds {}
+.module-media-temple #all-icons {}
+.module-media-temple a.media-temple-ad-wrapper-link {}
+.module-media-temple>p {}
+.module-media-temple>p b {}
+.end-of-article-ads {}
+.bsap-doubles.side-by-side .bsa_it {}
+.bsap-doubles.side-by-side .bsa_it .bsa_it_ad {}
+.bsap-doubles.side-by-side .bsa_it .bsa_it_ad a:hover .bsa_it_t {}
+.bsap-doubles.side-by-side .bsa_it .bsa_it_ad a:focus .bsa_it_t {}
+.bsa_it_p {}
+.bsa_it_ad {}
+.bsa_it_t {}
+.bsa_it_i {}
+.bsa_it_d {}
+.bsap_1241308 a {}
+img[src*='doubleclick.net'] {}
+.jobs-header {}
+.jobs-main-wrap {}
+.job>a {}
+.job>a:hover {}
+.job>a:active {}
+.job>a:hover .job-title {}
+.job>a:active .job-title {}
+.job>a:hover .job-featured-text {}
+.job>a:active .job-featured-text {}
+.job:last-child {}
+.job-featured a {}
+.job-featured-text {}
+.job-title {}
+.job-title {}
+.job-about {}
+.job-type {}
+.job-company {}
+.job-company {}
+.job-location {}
+.job-location {}
+.job-heart {}
+.job-heart svg {}
+.job-heart:hover svg {}
+.job-heart:active svg {}
+.post-a-job {}
+body.page-template-video-archive .main-and-sidebar-wrap {}
+.sidebar-lodge {}
+.video-nav {}
+.single-video-wrapper {}
+.video-thumb {}
+.video-info {}
+.video-info {}
+.video-info h2 {}
+.video-thumbnail {}
+.mar_links {}
+.lodge-video-nav {}
+.lodge-video-prev {}
+.lodge-video-next {}
+.almanac-wrapper {}
+.almanac-pages {}
+.almanac-page {}
+.almanac-page>h2 {}
+.almanac-page>h2 {}
+.almanac-page>ul>li>a {}
+.selector-page>h2 a {}
+.selector-page>h2 a:hover {}
+.selector-page>h2 a:focus {}
+.selector-page>ul>li>a {}
+.property-page>h2 a {}
+.property-page>h2 a:hover {}
+.property-page>h2 a:focus {}
+.property-page>ul>li>a {}
+.almanac-list {}
+.almanac-list>li {}
+.almanac-list>li>a {}
+.almanac-list>li>a:hover {}
+.almanac-list>li>a:focus {}
+.almanac-list>li>ul {}
+.almanac-list>li>ul>li {}
+.almanac-list>li>ul>li a {}
+.almanac-list>li>ul>li a:hover {}
+.almanac-list>li>ul>li a:focus {}
+.almanac-list>li>ul>li a small {}
+.almanac-list>li small {}
+.almanac-list {}
+.almanac-list>li>a {}
+.browser-support-table td {}
+.browser-support-table .yep {}
+.browser-support-table .nope {}
+.browser-support-table .yep-nope {}
+.browser-support-table {}
+.browser-support-table tbody {}
+.browser-support-table th {}
+.browser-support-table td {}
+.browser-support-table tr {}
+.browser-support-table thead {}
+.browser-support-table td {}
+.browser-support-table td:before {}
+.almanac-nav-wrapper {}
+.almanac-nav {}
+.almanac-nav>li {}
+.almanac-nav>li li {}
+.almanac-nav>li small {}
+.gallery-grid>* {}
+.gallery-buttons {}
+.gallery-tag-title svg {}
+.snippets-nav-wrapper {}
+.snippet-top-level-nav {}
+.snippet-top-level-nav a {}
+.snippet-top-level-nav a:hover {}
+.snippet-top-level-nav a:focus {}
+.snippet-top-level-nav a.active {}
+.snippet-top-level-nav {}
+.snippet-top-level-nav li {}
+.snippet-top-level-nav a {}
+.snippet-top-level-nav a {}
+.snippet-top-level-nav {}
+.snippet-top-level-nav li {}
+.snippet-top-level-nav a {}
+.list-of-snippets {}
+.list-of-snippets>ul {}
+.list-of-snippets.HTML .HTML {}
+.list-of-snippets.CSS .CSS {}
+.list-of-snippets.Sass .Sass {}
+.list-of-snippets.htaccess .htaccess {}
+.list-of-snippets.PHP .PHP {}
+.list-of-snippets.JavaScript .JavaScript {}
+.list-of-snippets.jQuery .jQuery {}
+.list-of-snippets.WordPress .WordPress {}
+.list-of-snippets>ul>li:nth-child(even) {}
+.list-of-snippets>ul>li>a {}
+.list-of-snippets>ul>li>a {}
+.list-of-snippets>ul>li>a:hover {}
+.list-of-snippets>ul>li>a:focus {}
+.list-of-snippets {}
+.gsc-control-cse {}
+.gsc-control-cse {}
+.gsc-control-cse .gsc-table-result {}
+.gsc-result .gs-title {}
+.gsc-webResult .gsc-result {}
+.gs-result img.gs-image {}
+.gs-result img.gs-promotion-image {}
+.search-results-title {}
+.search-results-title em {}
+.search-results-title em:hover {}
+.search-results-title em:focus {}
+.search-results-title em {}
+.search-results-title {}
+body.show-nav .search-results-title {}
+.all-search-results {}
+.all-search-results {}
+.gsc-resultsHeader {}
+.gcsc-branding {}
+.gcsc-branding {}
+.gsc-webResult .gsc-result {}
+.gsc-above-wrapper-area {}
+.gsc-wrapper.gsc-thinWrapper {}
+.gsc-table-result {}
+.gsc-thumbnail-inside {}
+.gsc-url-top {}
+body .gsc-control-cse .gsc-table-result {}
+.gs-webResult div.gs-visibleUrl {}
+.gs-imageResult div.gs-visibleUrl {}
+.gsc-control-cse .gs-spelling {}
+.gsc-control-cse .gs-result .gs-title {}
+.gsc-control-cse .gs-result .gs-title * {}
+.gsc-control-cse .gs-spelling:hover {}
+.gsc-control-cse .gs-spelling:focus {}
+.gsc-control-cse .gs-result .gs-title:hover {}
+.gsc-control-cse .gs-result .gs-title:focus {}
+.gsc-control-cse .gs-result .gs-title *:hover {}
+.gsc-control-cse .gs-result .gs-title *:focus {}
+.gsc-control-cse .gs-spelling:hover b {}
+.gsc-control-cse .gs-spelling:focus b {}
+.gsc-control-cse .gs-result .gs-title:hover b {}
+.gsc-control-cse .gs-result .gs-title:focus b {}
+.gsc-control-cse .gs-result .gs-title *:hover b {}
+.gsc-control-cse .gs-result .gs-title *:focus b {}
+.gsc-control-cse .gs-spelling:active {}
+.gsc-control-cse .gs-result .gs-title:active {}
+.gsc-control-cse .gs-result .gs-title *:active {}
+body.page-template-page-search-results-php table td {}
+body.page-template-page-search-results-php table th {}
+.gsc-cursor-box {}
+.gsc-cursor-box .gsc-cursor-page {}
+.gsc-cursor-box .gsc-cursor-page:hover {}
+.gsc-cursor-box .gsc-cursor-page:focus {}
+.gsc-cursor-box .gsc-cursor-current-page {}
+.gsc-results .gsc-cursor {}
+.newsletter-iframe {}
+.newsletters-nav {}
+.page-wrap-shop {}
+.single-product .product {}
+.single-product .images {}
+.single-product .summary {}
+.single-product .woocommerce-tabs {}
+.shop_table_responsive tbody {}
+.shop_table_responsive tr {}
+.shop_table_responsive td {}
+.shop_table_responsive th {}
+.shop_table_responsive thead {}
+.shop_table_responsive dd.variation-Style {}
+.shop_table_responsive dd.variation-Size {}
+.shop_table_responsive tr.cart_item {}
+.payment_box .form-row label {}
+p.demo_store {}
+p.demo_store a {}
+.admin-bar p.demo_store {}
+.clear {}
+.woocommerce .blockUI.blockOverlay {}
+.woocommerce .blockUI.blockOverlay:before {}
+.woocommerce .loader:before {}
+.woocommerce a.remove {}
+.woocommerce a.remove:hover {}
+.woocommerce small.note {}
+.woocommerce .woocommerce-breadcrumb {}
+.woocommerce .woocommerce-breadcrumb:before {}
+.woocommerce .woocommerce-breadcrumb:after {}
+.woocommerce .woocommerce-breadcrumb:after {}
+.woocommerce .woocommerce-breadcrumb a {}
+.woocommerce .quantity .qty {}
+.woocommerce div.product {}
+.woocommerce div.product .product_title {}
+.woocommerce div.product span.price {}
+.woocommerce div.product p.price {}
+.woocommerce div.product span.price ins {}
+.woocommerce div.product p.price ins {}
+.woocommerce div.product span.price del {}
+.woocommerce div.product p.price del {}
+.woocommerce div.product p.stock {}
+.woocommerce div.product .stock {}
+.woocommerce div.product .out-of-stock {}
+.woocommerce div.product .woocommerce-product-rating {}
+.woocommerce div.product div.images {}
+.woocommerce div.product div.images img {}
+.woocommerce div.product div.images div.thumbnails {}
+.woocommerce div.product div.summary {}
+.woocommerce div.product div.social {}
+.woocommerce div.product div.social span {}
+.woocommerce div.product div.social span span {}
+.woocommerce div.product div.social span .stButton .chicklets {}
+.woocommerce div.product div.social iframe {}
+.woocommerce div.product .woocommerce-tabs ul.tabs {}
+.woocommerce div.product .woocommerce-tabs ul.tabs li {}
+.woocommerce div.product .woocommerce-tabs ul.tabs li a {}
+.woocommerce div.product .woocommerce-tabs ul.tabs li a:hover {}
+.woocommerce div.product .woocommerce-tabs ul.tabs li.active {}
+.woocommerce div.product .woocommerce-tabs ul.tabs li.active a {}
+.woocommerce div.product .woocommerce-tabs ul.tabs li.active:before {}
+.woocommerce div.product .woocommerce-tabs ul.tabs li.active:after {}
+.woocommerce div.product .woocommerce-tabs ul.tabs li:before {}
+.woocommerce div.product .woocommerce-tabs ul.tabs li:after {}
+.woocommerce div.product .woocommerce-tabs ul.tabs li:before {}
+.woocommerce div.product .woocommerce-tabs ul.tabs li:after {}
+.woocommerce div.product .woocommerce-tabs ul.tabs:before {}
+.woocommerce div.product .woocommerce-tabs .panel {}
+.woocommerce div.product p.cart {}
+.woocommerce div.product p.cart:before {}
+.woocommerce div.product p.cart:after {}
+.woocommerce div.product p.cart:after {}
+.woocommerce div.product form.cart {}
+.woocommerce div.product form.cart:before {}
+.woocommerce div.product form.cart:after {}
+.woocommerce div.product form.cart:after {}
+.woocommerce div.product form.cart div.quantity {}
+.woocommerce div.product form.cart table {}
+.woocommerce div.product form.cart table td {}
+.woocommerce div.product form.cart table div.quantity {}
+.woocommerce div.product form.cart table small.stock {}
+.woocommerce div.product form.cart .variations {}
+.woocommerce div.product form.cart .variations td {}
+.woocommerce div.product form.cart .variations th {}
+.woocommerce div.product form.cart .variations label {}
+.woocommerce div.product form.cart .variations select {}
+.woocommerce div.product form.cart .variations td.label {}
+.woocommerce div.product form.cart .woocommerce-variation-description p {}
+.woocommerce div.product form.cart .reset_variations {}
+.woocommerce div.product form.cart .wc-no-matching-variations {}
+.woocommerce div.product form.cart .button {}
+.woocommerce div.product form.cart #wp_page_numbers li a {}
+#wp_page_numbers li .woocommerce div.product form.cart a {}
+.woocommerce div.product form.cart .gsc-cursor-box .gsc-cursor-page {}
+.gsc-cursor-box .woocommerce div.product form.cart .gsc-cursor-page {}
+.woocommerce div.product form.cart .bbp-pagination .page-numbers {}
+.bbp-pagination .woocommerce div.product form.cart .page-numbers {}
+.woocommerce div.product form.cart .group_table td.label {}
+.woocommerce div.product form.cart .group_table td {}
+.woocommerce span.onsale {}
+.woocommerce .products ul {}
+.woocommerce ul.products {}
+.woocommerce .products ul:before {}
+.woocommerce .products ul:after {}
+.woocommerce ul.products:before {}
+.woocommerce ul.products:after {}
+.woocommerce .products ul:after {}
+.woocommerce ul.products:after {}
+.woocommerce .products ul li {}
+.woocommerce ul.products li {}
+.woocommerce ul.products {}
+.woocommerce ul.products li.product {}
+.woocommerce ul.products li.product:nth-child(3n) {}
+.woocommerce ul.products li.product {}
+.woocommerce ul.products li.product .onsale {}
+.woocommerce ul.products li.product h3 {}
+.woocommerce ul.products li.product a {}
+.woocommerce ul.products li.product a img {}
+.woocommerce ul.products li.product strong {}
+.woocommerce ul.products li.product .star-rating {}
+.woocommerce ul.products li.product .button {}
+.woocommerce ul.products #wp_page_numbers li.product a {}
+#wp_page_numbers .woocommerce ul.products li.product a {}
+.woocommerce ul.products li.product .gsc-cursor-box .gsc-cursor-page {}
+.gsc-cursor-box .woocommerce ul.products li.product .gsc-cursor-page {}
+.woocommerce ul.products li.product .bbp-pagination .page-numbers {}
+.bbp-pagination .woocommerce ul.products li.product .page-numbers {}
+.woocommerce ul.products li.product .price {}
+.woocommerce ul.products li.product .price del {}
+.woocommerce ul.products li.product .price ins {}
+.woocommerce ul.products li.product .price .from {}
+.woocommerce .woocommerce-result-count {}
+.woocommerce .woocommerce-ordering {}
+.woocommerce .woocommerce-ordering select {}
+.woocommerce nav.woocommerce-pagination {}
+.woocommerce nav.woocommerce-pagination ul {}
+.woocommerce nav.woocommerce-pagination ul li {}
+.woocommerce nav.woocommerce-pagination ul li a {}
+.woocommerce nav.woocommerce-pagination ul li span {}
+.woocommerce nav.woocommerce-pagination ul li span.current {}
+.woocommerce nav.woocommerce-pagination ul li a:hover {}
+.woocommerce nav.woocommerce-pagination ul li a:focus {}
+.woocommerce a.button.loading {}
+.woocommerce #wp_page_numbers li a.loading {}
+#wp_page_numbers li .woocommerce a.loading {}
+.woocommerce .gsc-cursor-box a.loading.gsc-cursor-page {}
+.gsc-cursor-box .woocommerce a.loading.gsc-cursor-page {}
+.woocommerce .bbp-pagination a.loading.page-numbers {}
+.bbp-pagination .woocommerce a.loading.page-numbers {}
+.woocommerce button.button.loading {}
+.woocommerce .gsc-cursor-box button.loading.gsc-cursor-page {}
+.gsc-cursor-box .woocommerce button.loading.gsc-cursor-page {}
+.woocommerce .bbp-pagination button.loading.page-numbers {}
+.bbp-pagination .woocommerce button.loading.page-numbers {}
+.woocommerce input.button.loading {}
+.woocommerce .gsc-cursor-box input.loading.gsc-cursor-page {}
+.gsc-cursor-box .woocommerce input.loading.gsc-cursor-page {}
+.woocommerce .bbp-pagination input.loading.page-numbers {}
+.bbp-pagination .woocommerce input.loading.page-numbers {}
+.woocommerce #respond input#submit.loading {}
+.woocommerce a.button.loading:after {}
+.woocommerce #wp_page_numbers li a.loading:after {}
+#wp_page_numbers li .woocommerce a.loading:after {}
+.woocommerce .gsc-cursor-box a.loading.gsc-cursor-page:after {}
+.gsc-cursor-box .woocommerce a.loading.gsc-cursor-page:after {}
+.woocommerce .bbp-pagination a.loading.page-numbers:after {}
+.bbp-pagination .woocommerce a.loading.page-numbers:after {}
+.woocommerce button.button.loading:after {}
+.woocommerce .gsc-cursor-box button.loading.gsc-cursor-page:after {}
+.gsc-cursor-box .woocommerce button.loading.gsc-cursor-page:after {}
+.woocommerce .bbp-pagination button.loading.page-numbers:after {}
+.bbp-pagination .woocommerce button.loading.page-numbers:after {}
+.woocommerce input.button.loading:after {}
+.woocommerce .gsc-cursor-box input.loading.gsc-cursor-page:after {}
+.gsc-cursor-box .woocommerce input.loading.gsc-cursor-page:after {}
+.woocommerce .bbp-pagination input.loading.page-numbers:after {}
+.bbp-pagination .woocommerce input.loading.page-numbers:after {}
+.woocommerce #respond input#submit.loading:after {}
+.woocommerce a.button.added:after {}
+.woocommerce #wp_page_numbers li a.added:after {}
+#wp_page_numbers li .woocommerce a.added:after {}
+.woocommerce .gsc-cursor-box a.added.gsc-cursor-page:after {}
+.gsc-cursor-box .woocommerce a.added.gsc-cursor-page:after {}
+.woocommerce .bbp-pagination a.added.page-numbers:after {}
+.bbp-pagination .woocommerce a.added.page-numbers:after {}
+.woocommerce button.button.added:after {}
+.woocommerce .gsc-cursor-box button.added.gsc-cursor-page:after {}
+.gsc-cursor-box .woocommerce button.added.gsc-cursor-page:after {}
+.woocommerce .bbp-pagination button.added.page-numbers:after {}
+.bbp-pagination .woocommerce button.added.page-numbers:after {}
+.woocommerce input.button.added:after {}
+.woocommerce .gsc-cursor-box input.added.gsc-cursor-page:after {}
+.gsc-cursor-box .woocommerce input.added.gsc-cursor-page:after {}
+.woocommerce .bbp-pagination input.added.page-numbers:after {}
+.bbp-pagination .woocommerce input.added.page-numbers:after {}
+.woocommerce #respond input#submit.added:after {}
+.woocommerce a.button:disabled {}
+.woocommerce #wp_page_numbers li a:disabled {}
+#wp_page_numbers li .woocommerce a:disabled {}
+.woocommerce .gsc-cursor-box a.gsc-cursor-page:disabled {}
+.gsc-cursor-box .woocommerce a.gsc-cursor-page:disabled {}
+.woocommerce .bbp-pagination a.page-numbers:disabled {}
+.bbp-pagination .woocommerce a.page-numbers:disabled {}
+.woocommerce a.button.disabled {}
+.woocommerce #wp_page_numbers li a.disabled {}
+#wp_page_numbers li .woocommerce a.disabled {}
+.woocommerce .gsc-cursor-box a.disabled.gsc-cursor-page {}
+.gsc-cursor-box .woocommerce a.disabled.gsc-cursor-page {}
+.woocommerce .bbp-pagination a.disabled.page-numbers {}
+.bbp-pagination .woocommerce a.disabled.page-numbers {}
+.woocommerce a.button:disabled[disabled] {}
+.woocommerce #wp_page_numbers li a:disabled[disabled] {}
+#wp_page_numbers li .woocommerce a:disabled[disabled] {}
+.woocommerce .gsc-cursor-box a.gsc-cursor-page:disabled[disabled] {}
+.gsc-cursor-box .woocommerce a.gsc-cursor-page:disabled[disabled] {}
+.woocommerce .bbp-pagination a.page-numbers:disabled[disabled] {}
+.bbp-pagination .woocommerce a.page-numbers:disabled[disabled] {}
+.woocommerce button.button:disabled {}
+.woocommerce .gsc-cursor-box button.gsc-cursor-page:disabled {}
+.gsc-cursor-box .woocommerce button.gsc-cursor-page:disabled {}
+.woocommerce .bbp-pagination button.page-numbers:disabled {}
+.bbp-pagination .woocommerce button.page-numbers:disabled {}
+.woocommerce button.button.disabled {}
+.woocommerce .gsc-cursor-box button.disabled.gsc-cursor-page {}
+.gsc-cursor-box .woocommerce button.disabled.gsc-cursor-page {}
+.woocommerce .bbp-pagination button.disabled.page-numbers {}
+.bbp-pagination .woocommerce button.disabled.page-numbers {}
+.woocommerce button.button:disabled[disabled] {}
+.woocommerce .gsc-cursor-box button.gsc-cursor-page:disabled[disabled] {}
+.gsc-cursor-box .woocommerce button.gsc-cursor-page:disabled[disabled] {}
+.woocommerce .bbp-pagination button.page-numbers:disabled[disabled] {}
+.bbp-pagination .woocommerce button.page-numbers:disabled[disabled] {}
+.woocommerce input.button:disabled {}
+.woocommerce .gsc-cursor-box input.gsc-cursor-page:disabled {}
+.gsc-cursor-box .woocommerce input.gsc-cursor-page:disabled {}
+.woocommerce .bbp-pagination input.page-numbers:disabled {}
+.bbp-pagination .woocommerce input.page-numbers:disabled {}
+.woocommerce input.button.disabled {}
+.woocommerce .gsc-cursor-box input.disabled.gsc-cursor-page {}
+.gsc-cursor-box .woocommerce input.disabled.gsc-cursor-page {}
+.woocommerce .bbp-pagination input.disabled.page-numbers {}
+.bbp-pagination .woocommerce input.disabled.page-numbers {}
+.woocommerce input.button:disabled[disabled] {}
+.woocommerce .gsc-cursor-box input.gsc-cursor-page:disabled[disabled] {}
+.gsc-cursor-box .woocommerce input.gsc-cursor-page:disabled[disabled] {}
+.woocommerce .bbp-pagination input.page-numbers:disabled[disabled] {}
+.bbp-pagination .woocommerce input.page-numbers:disabled[disabled] {}
+.woocommerce #respond input#submit:disabled {}
+.woocommerce #respond input#submit.disabled {}
+.woocommerce #respond input#submit:disabled[disabled] {}
+.woocommerce a.button:disabled:hover {}
+.woocommerce #wp_page_numbers li a:disabled:hover {}
+#wp_page_numbers li .woocommerce a:disabled:hover {}
+.woocommerce .gsc-cursor-box a.gsc-cursor-page:disabled:hover {}
+.gsc-cursor-box .woocommerce a.gsc-cursor-page:disabled:hover {}
+.woocommerce .bbp-pagination a.page-numbers:disabled:hover {}
+.bbp-pagination .woocommerce a.page-numbers:disabled:hover {}
+.woocommerce a.button.disabled:hover {}
+.woocommerce #wp_page_numbers li a.disabled:hover {}
+#wp_page_numbers li .woocommerce a.disabled:hover {}
+.woocommerce .gsc-cursor-box a.disabled.gsc-cursor-page:hover {}
+.gsc-cursor-box .woocommerce a.disabled.gsc-cursor-page:hover {}
+.woocommerce .bbp-pagination a.disabled.page-numbers:hover {}
+.bbp-pagination .woocommerce a.disabled.page-numbers:hover {}
+.woocommerce a.button:disabled[disabled]:hover {}
+.woocommerce #wp_page_numbers li a:disabled[disabled]:hover {}
+#wp_page_numbers li .woocommerce a:disabled[disabled]:hover {}
+.woocommerce .gsc-cursor-box a.gsc-cursor-page:disabled[disabled]:hover {}
+.gsc-cursor-box .woocommerce a.gsc-cursor-page:disabled[disabled]:hover {}
+.woocommerce .bbp-pagination a.page-numbers:disabled[disabled]:hover {}
+.bbp-pagination .woocommerce a.page-numbers:disabled[disabled]:hover {}
+.woocommerce button.button:disabled:hover {}
+.woocommerce .gsc-cursor-box button.gsc-cursor-page:disabled:hover {}
+.gsc-cursor-box .woocommerce button.gsc-cursor-page:disabled:hover {}
+.woocommerce .bbp-pagination button.page-numbers:disabled:hover {}
+.bbp-pagination .woocommerce button.page-numbers:disabled:hover {}
+.woocommerce button.button.disabled:hover {}
+.woocommerce .gsc-cursor-box button.disabled.gsc-cursor-page:hover {}
+.gsc-cursor-box .woocommerce button.disabled.gsc-cursor-page:hover {}
+.woocommerce .bbp-pagination button.disabled.page-numbers:hover {}
+.bbp-pagination .woocommerce button.disabled.page-numbers:hover {}
+.woocommerce button.button:disabled[disabled]:hover {}
+.woocommerce .gsc-cursor-box button.gsc-cursor-page:disabled[disabled]:hover {}
+.gsc-cursor-box .woocommerce button.gsc-cursor-page:disabled[disabled]:hover {}
+.woocommerce .bbp-pagination button.page-numbers:disabled[disabled]:hover {}
+.bbp-pagination .woocommerce button.page-numbers:disabled[disabled]:hover {}
+.woocommerce input.button:disabled:hover {}
+.woocommerce .gsc-cursor-box input.gsc-cursor-page:disabled:hover {}
+.gsc-cursor-box .woocommerce input.gsc-cursor-page:disabled:hover {}
+.woocommerce .bbp-pagination input.page-numbers:disabled:hover {}
+.bbp-pagination .woocommerce input.page-numbers:disabled:hover {}
+.woocommerce input.button.disabled:hover {}
+.woocommerce .gsc-cursor-box input.disabled.gsc-cursor-page:hover {}
+.gsc-cursor-box .woocommerce input.disabled.gsc-cursor-page:hover {}
+.woocommerce .bbp-pagination input.disabled.page-numbers:hover {}
+.bbp-pagination .woocommerce input.disabled.page-numbers:hover {}
+.woocommerce input.button:disabled[disabled]:hover {}
+.woocommerce .gsc-cursor-box input.gsc-cursor-page:disabled[disabled]:hover {}
+.gsc-cursor-box .woocommerce input.gsc-cursor-page:disabled[disabled]:hover {}
+.woocommerce .bbp-pagination input.page-numbers:disabled[disabled]:hover {}
+.bbp-pagination .woocommerce input.page-numbers:disabled[disabled]:hover {}
+.woocommerce #respond input#submit:disabled:hover {}
+.woocommerce #respond input#submit.disabled:hover {}
+.woocommerce #respond input#submit:disabled[disabled]:hover {}
+.woocommerce .cart .button {}
+.woocommerce .cart #wp_page_numbers li a {}
+#wp_page_numbers li .woocommerce .cart a {}
+.woocommerce .cart .gsc-cursor-box .gsc-cursor-page {}
+.gsc-cursor-box .woocommerce .cart .gsc-cursor-page {}
+.woocommerce .cart .bbp-pagination .page-numbers {}
+.bbp-pagination .woocommerce .cart .page-numbers {}
+.woocommerce .cart input.button {}
+.woocommerce .cart .gsc-cursor-box input.gsc-cursor-page {}
+.gsc-cursor-box .woocommerce .cart input.gsc-cursor-page {}
+.woocommerce .cart .bbp-pagination input.page-numbers {}
+.bbp-pagination .woocommerce .cart input.page-numbers {}
+.woocommerce a.added_to_cart {}
+.woocommerce #reviews h2 small {}
+.woocommerce #reviews h2 small a {}
+.woocommerce #reviews h3 {}
+.woocommerce #reviews #respond {}
+.woocommerce #reviews #comment {}
+.woocommerce #reviews #comments .add_review {}
+.woocommerce #reviews #comments .add_review:before {}
+.woocommerce #reviews #comments .add_review:after {}
+.woocommerce #reviews #comments .add_review:after {}
+.woocommerce #reviews #comments h2 {}
+.woocommerce #reviews #comments ol.commentlist {}
+.woocommerce #reviews #comments ol.commentlist:before {}
+.woocommerce #reviews #comments ol.commentlist:after {}
+.woocommerce #reviews #comments ol.commentlist:after {}
+.woocommerce #reviews #comments ol.commentlist li {}
+.woocommerce #reviews #comments ol.commentlist li .meta {}
+.woocommerce #reviews #comments ol.commentlist li img.avatar {}
+.woocommerce #reviews #comments ol.commentlist li .comment-text {}
+.woocommerce #reviews #comments ol.commentlist li .comment-text:before {}
+.woocommerce #reviews #comments ol.commentlist li .comment-text:after {}
+.woocommerce #reviews #comments ol.commentlist li .comment-text:after {}
+.woocommerce #reviews #comments ol.commentlist li .comment-text p {}
+.woocommerce #reviews #comments ol.commentlist li .comment-text p.meta {}
+.woocommerce #reviews #comments ol.commentlist ul.children {}
+.woocommerce #reviews #comments ol.commentlist ul.children .star-rating {}
+.woocommerce #reviews #comments ol.commentlist #respond {}
+.woocommerce #reviews #comments .commentlist>li:before {}
+.woocommerce .star-rating {}
+.woocommerce .star-rating:before {}
+.woocommerce .star-rating span {}
+.woocommerce .star-rating span:before {}
+.woocommerce .woocommerce-product-rating {}
+.woocommerce .woocommerce-product-rating:before {}
+.woocommerce .woocommerce-product-rating:after {}
+.woocommerce .woocommerce-product-rating:after {}
+.woocommerce .woocommerce-product-rating .star-rating {}
+.woocommerce .products .star-rating {}
+.woocommerce .hreview-aggregate .star-rating {}
+.woocommerce #review_form #respond {}
+.woocommerce #review_form #respond:before {}
+.woocommerce #review_form #respond:after {}
+.woocommerce #review_form #respond:after {}
+.woocommerce #review_form #respond p {}
+.woocommerce #review_form #respond .form-submit input {}
+.woocommerce #review_form #respond textarea {}
+.woocommerce p.stars a {}
+.woocommerce p.stars a:before {}
+.woocommerce p.stars a:hover ~ a:before {}
+.woocommerce p.stars:hover a:before {}
+.woocommerce p.stars.selected a.active:before {}
+.woocommerce p.stars.selected a.active ~ a:before {}
+.woocommerce p.stars.selected a:not(.active):before {}
+.woocommerce table.shop_attributes {}
+.woocommerce table.shop_attributes th {}
+.woocommerce table.shop_attributes td {}
+.woocommerce table.shop_attributes td p {}
+.woocommerce table.shop_attributes .alt td {}
+.woocommerce table.shop_attributes .alt th {}
+.woocommerce table.shop_table {}
+.woocommerce table.shop_table th {}
+.woocommerce table.shop_table td {}
+.woocommerce table.shop_table td small {}
+.woocommerce table.shop_table tbody:first-child tr:first-child th {}
+.woocommerce table.shop_table tbody:first-child tr:first-child td {}
+.woocommerce table.shop_table tfoot td {}
+.woocommerce table.shop_table tfoot th {}
+.woocommerce table.shop_table tbody th {}
+.woocommerce table.my_account_orders {}
+.woocommerce table.my_account_orders th {}
+.woocommerce table.my_account_orders td {}
+.woocommerce table.my_account_orders .button {}
+.woocommerce table.my_account_orders #wp_page_numbers li a {}
+#wp_page_numbers li .woocommerce table.my_account_orders a {}
+.woocommerce table.my_account_orders .gsc-cursor-box .gsc-cursor-page {}
+.gsc-cursor-box .woocommerce table.my_account_orders .gsc-cursor-page {}
+.woocommerce table.my_account_orders .bbp-pagination .page-numbers {}
+.bbp-pagination .woocommerce table.my_account_orders .page-numbers {}
+.woocommerce table.my_account_orders .order-actions {}
+.woocommerce table.my_account_orders .order-actions .button {}
+.woocommerce table.my_account_orders .order-actions #wp_page_numbers li a {}
+#wp_page_numbers li .woocommerce table.my_account_orders .order-actions a {}
+.woocommerce table.my_account_orders .order-actions .gsc-cursor-box .gsc-cursor-page {}
+.gsc-cursor-box .woocommerce table.my_account_orders .order-actions .gsc-cursor-page {}
+.woocommerce table.my_account_orders .order-actions .bbp-pagination .page-numbers {}
+.bbp-pagination .woocommerce table.my_account_orders .order-actions .page-numbers {}
+.woocommerce td.product-name dl.variation {}
+.woocommerce td.product-name dl.variation:before {}
+.woocommerce td.product-name dl.variation:after {}
+.woocommerce td.product-name dl.variation:after {}
+.woocommerce td.product-name dl.variation dt {}
+.woocommerce td.product-name dl.variation dd {}
+.woocommerce td.product-name dl.variation dt {}
+.woocommerce td.product-name dl.variation dd {}
+.woocommerce td.product-name dl.variation dd p:last-child {}
+.woocommerce td.product-name p.backorder_notification {}
+.woocommerce td.product-quantity {}
+.woocommerce ul.cart_list {}
+.woocommerce ul.product_list_widget {}
+.woocommerce ul.cart_list li {}
+.woocommerce ul.product_list_widget li {}
+.woocommerce ul.cart_list li:before {}
+.woocommerce ul.cart_list li:after {}
+.woocommerce ul.product_list_widget li:before {}
+.woocommerce ul.product_list_widget li:after {}
+.woocommerce ul.cart_list li:after {}
+.woocommerce ul.product_list_widget li:after {}
+.woocommerce ul.cart_list li a {}
+.woocommerce ul.product_list_widget li a {}
+.woocommerce ul.cart_list li img {}
+.woocommerce ul.product_list_widget li img {}
+.woocommerce ul.cart_list li dl {}
+.woocommerce ul.product_list_widget li dl {}
+.woocommerce ul.cart_list li dl:before {}
+.woocommerce ul.cart_list li dl:after {}
+.woocommerce ul.product_list_widget li dl:before {}
+.woocommerce ul.product_list_widget li dl:after {}
+.woocommerce ul.cart_list li dl:after {}
+.woocommerce ul.product_list_widget li dl:after {}
+.woocommerce ul.cart_list li dl dt {}
+.woocommerce ul.cart_list li dl dd {}
+.woocommerce ul.product_list_widget li dl dt {}
+.woocommerce ul.product_list_widget li dl dd {}
+.woocommerce ul.cart_list li dl dt {}
+.woocommerce ul.product_list_widget li dl dt {}
+.woocommerce ul.cart_list li dl dd {}
+.woocommerce ul.product_list_widget li dl dd {}
+.woocommerce ul.cart_list li dl dd p:last-child {}
+.woocommerce ul.product_list_widget li dl dd p:last-child {}
+.woocommerce ul.cart_list li .star-rating {}
+.woocommerce ul.product_list_widget li .star-rating {}
+.woocommerce.widget_shopping_cart .total {}
+.woocommerce .widget_shopping_cart .total {}
+.woocommerce.widget_shopping_cart .total strong {}
+.woocommerce .widget_shopping_cart .total strong {}
+.woocommerce.widget_shopping_cart .cart_list li {}
+.woocommerce .widget_shopping_cart .cart_list li {}
+.woocommerce.widget_shopping_cart .cart_list li a.remove {}
+.woocommerce .widget_shopping_cart .cart_list li a.remove {}
+.woocommerce.widget_shopping_cart .buttons {}
+.woocommerce .widget_shopping_cart .buttons {}
+.woocommerce.widget_shopping_cart .buttons:before {}
+.woocommerce.widget_shopping_cart .buttons:after {}
+.woocommerce .widget_shopping_cart .buttons:before {}
+.woocommerce .widget_shopping_cart .buttons:after {}
+.woocommerce.widget_shopping_cart .buttons:after {}
+.woocommerce .widget_shopping_cart .buttons:after {}
+.woocommerce form .form-row {}
+.woocommerce form .form-row [placeholder]:focus::-webkit-input-placeholder {}
+.woocommerce form .form-row label {}
+.woocommerce form .form-row label.hidden {}
+.woocommerce form .form-row label.inline {}
+.woocommerce form .form-row select {}
+.woocommerce form .form-row .required {}
+.woocommerce form .form-row .input-checkbox {}
+.woocommerce form .form-row input.input-text {}
+.woocommerce form .form-row textarea {}
+.woocommerce form .form-row textarea {}
+.woocommerce form .form-row .select2-container {}
+.woocommerce form .form-row.woocommerce-invalid label {}
+.woocommerce form .form-row.woocommerce-invalid .select2-container {}
+.woocommerce form .form-row.woocommerce-invalid input.input-text {}
+.woocommerce form .form-row.woocommerce-invalid select {}
+.woocommerce form .form-row.woocommerce-validated .select2-container {}
+.woocommerce form .form-row.woocommerce-validated input.input-text {}
+.woocommerce form .form-row.woocommerce-validated select {}
+.woocommerce form .form-row ::-webkit-input-placeholder {}
+.woocommerce form .form-row :-moz-placeholder {}
+.woocommerce form .form-row :-ms-input-placeholder {}
+.woocommerce form.login {}
+.woocommerce form.checkout_coupon {}
+.woocommerce form.register {}
+.woocommerce ul#shipping_method {}
+.woocommerce ul#shipping_method li {}
+.woocommerce ul#shipping_method li input {}
+.woocommerce ul#shipping_method li label {}
+.woocommerce ul#shipping_method .amount {}
+.woocommerce p.woocommerce-shipping-contents {}
+.woocommerce .order_details {}
+.woocommerce .order_details:before {}
+.woocommerce .order_details:after {}
+.woocommerce .order_details:after {}
+.woocommerce .order_details li {}
+.woocommerce .order_details li strong {}
+.woocommerce .order_details li:last-of-type {}
+.woocommerce .widget_layered_nav ul {}
+.woocommerce .widget_layered_nav ul li {}
+.woocommerce .widget_layered_nav ul li:before {}
+.woocommerce .widget_layered_nav ul li:after {}
+.woocommerce .widget_layered_nav ul li:after {}
+.woocommerce .widget_layered_nav ul li a {}
+.woocommerce .widget_layered_nav ul li span {}
+.woocommerce .widget_layered_nav ul li.chosen a:before {}
+.woocommerce .widget_layered_nav_filters ul {}
+.woocommerce .widget_layered_nav_filters ul li {}
+.woocommerce .widget_layered_nav_filters ul li a {}
+.woocommerce .widget_layered_nav_filters ul li a:before {}
+.woocommerce .widget_price_filter .price_slider {}
+.woocommerce .widget_price_filter .price_slider_amount {}
+.woocommerce .widget_price_filter .price_slider_amount .button {}
+.woocommerce .widget_price_filter .price_slider_amount #wp_page_numbers li a {}
+#wp_page_numbers li .woocommerce .widget_price_filter .price_slider_amount a {}
+.woocommerce .widget_price_filter .price_slider_amount .gsc-cursor-box .gsc-cursor-page {}
+.gsc-cursor-box .woocommerce .widget_price_filter .price_slider_amount .gsc-cursor-page {}
+.woocommerce .widget_price_filter .price_slider_amount .bbp-pagination .page-numbers {}
+.bbp-pagination .woocommerce .widget_price_filter .price_slider_amount .page-numbers {}
+.woocommerce .widget_price_filter .price_slider_amount .button {}
+.woocommerce .widget_price_filter .price_slider_amount #wp_page_numbers li a {}
+#wp_page_numbers li .woocommerce .widget_price_filter .price_slider_amount a {}
+.woocommerce .widget_price_filter .price_slider_amount .gsc-cursor-box .gsc-cursor-page {}
+.gsc-cursor-box .woocommerce .widget_price_filter .price_slider_amount .gsc-cursor-page {}
+.woocommerce .widget_price_filter .price_slider_amount .bbp-pagination .page-numbers {}
+.bbp-pagination .woocommerce .widget_price_filter .price_slider_amount .page-numbers {}
+.woocommerce .widget_price_filter .ui-slider {}
+.woocommerce .widget_price_filter .ui-slider .ui-slider-handle {}
+.woocommerce .widget_price_filter .ui-slider .ui-slider-range {}
+.woocommerce .widget_price_filter .price_slider_wrapper .ui-widget-content {}
+.woocommerce .widget_price_filter .ui-slider-horizontal {}
+.woocommerce .widget_price_filter .ui-slider-horizontal .ui-slider-range {}
+.woocommerce .widget_price_filter .ui-slider-horizontal .ui-slider-range-min {}
+.woocommerce .widget_price_filter .ui-slider-horizontal .ui-slider-range-max {}
+.woocommerce .widget_rating_filter ul {}
+.woocommerce .widget_rating_filter ul li {}
+.woocommerce .widget_rating_filter ul li:before {}
+.woocommerce .widget_rating_filter ul li:after {}
+.woocommerce .widget_rating_filter ul li:after {}
+.woocommerce .widget_rating_filter ul li a {}
+.woocommerce .widget_rating_filter ul li .star-rating {}
+.woocommerce .widget_rating_filter ul li.chosen a:before {}
+.woocommerce-message {}
+.woocommerce-error {}
+.woocommerce-info {}
+.woocommerce-message:before {}
+.woocommerce-message:after {}
+.woocommerce-error:before {}
+.woocommerce-error:after {}
+.woocommerce-info:before {}
+.woocommerce-info:after {}
+.woocommerce-message:after {}
+.woocommerce-error:after {}
+.woocommerce-info:after {}
+.woocommerce-message:before {}
+.woocommerce-error:before {}
+.woocommerce-info:before {}
+.woocommerce-message .button {}
+.woocommerce-message #wp_page_numbers li a {}
+#wp_page_numbers li .woocommerce-message a {}
+.woocommerce-message .gsc-cursor-box .gsc-cursor-page {}
+.gsc-cursor-box .woocommerce-message .gsc-cursor-page {}
+.woocommerce-message .bbp-pagination .page-numbers {}
+.bbp-pagination .woocommerce-message .page-numbers {}
+.woocommerce-error .button {}
+.woocommerce-error #wp_page_numbers li a {}
+#wp_page_numbers li .woocommerce-error a {}
+.woocommerce-error .gsc-cursor-box .gsc-cursor-page {}
+.gsc-cursor-box .woocommerce-error .gsc-cursor-page {}
+.woocommerce-error .bbp-pagination .page-numbers {}
+.bbp-pagination .woocommerce-error .page-numbers {}
+.woocommerce-info .button {}
+.woocommerce-info #wp_page_numbers li a {}
+#wp_page_numbers li .woocommerce-info a {}
+.woocommerce-info .gsc-cursor-box .gsc-cursor-page {}
+.gsc-cursor-box .woocommerce-info .gsc-cursor-page {}
+.woocommerce-info .bbp-pagination .page-numbers {}
+.bbp-pagination .woocommerce-info .page-numbers {}
+.woocommerce-message li {}
+.woocommerce-error li {}
+.woocommerce-info li {}
+.woocommerce-message {}
+.woocommerce-message:before {}
+.woocommerce-info {}
+.woocommerce-info:before {}
+.woocommerce-error {}
+.woocommerce-error:before {}
+.woocommerce-account .woocommerce {}
+.woocommerce-account .woocommerce:before {}
+.woocommerce-account .woocommerce:after {}
+.woocommerce-account .woocommerce:after {}
+.woocommerce-account .addresses .title {}
+.woocommerce-account .addresses .title:before {}
+.woocommerce-account .addresses .title:after {}
+.woocommerce-account .addresses .title:after {}
+.woocommerce-account .addresses .title h3 {}
+.woocommerce-account .addresses .title .edit {}
+.woocommerce-account ol.commentlist.notes li.note p.meta {}
+.woocommerce-account ol.commentlist.notes li.note .description p:last-child {}
+.woocommerce-account ul.digital-downloads {}
+.woocommerce-account ul.digital-downloads li {}
+.woocommerce-account ul.digital-downloads li:before {}
+.woocommerce-account ul.digital-downloads li .count {}
+.woocommerce-cart table.cart .product-thumbnail {}
+.woocommerce-checkout table.cart .product-thumbnail {}
+#add_payment_method table.cart .product-thumbnail {}
+.woocommerce-cart table.cart img {}
+.woocommerce-checkout table.cart img {}
+#add_payment_method table.cart img {}
+.woocommerce-cart table.cart th {}
+.woocommerce-cart table.cart td {}
+.woocommerce-checkout table.cart th {}
+.woocommerce-checkout table.cart td {}
+#add_payment_method table.cart th {}
+#add_payment_method table.cart td {}
+.woocommerce-cart table.cart td.actions .coupon .input-text {}
+.woocommerce-checkout table.cart td.actions .coupon .input-text {}
+#add_payment_method table.cart td.actions .coupon .input-text {}
+.woocommerce-cart table.cart input {}
+.woocommerce-checkout table.cart input {}
+#add_payment_method table.cart input {}
+.woocommerce-cart .wc-proceed-to-checkout {}
+.woocommerce-checkout .wc-proceed-to-checkout {}
+#add_payment_method .wc-proceed-to-checkout {}
+.woocommerce-cart .wc-proceed-to-checkout:before {}
+.woocommerce-cart .wc-proceed-to-checkout:after {}
+.woocommerce-checkout .wc-proceed-to-checkout:before {}
+.woocommerce-checkout .wc-proceed-to-checkout:after {}
+#add_payment_method .wc-proceed-to-checkout:before {}
+#add_payment_method .wc-proceed-to-checkout:after {}
+.woocommerce-cart .wc-proceed-to-checkout:after {}
+.woocommerce-checkout .wc-proceed-to-checkout:after {}
+#add_payment_method .wc-proceed-to-checkout:after {}
+.woocommerce-cart .wc-proceed-to-checkout a.checkout-button {}
+.woocommerce-checkout .wc-proceed-to-checkout a.checkout-button {}
+#add_payment_method .wc-proceed-to-checkout a.checkout-button {}
+.woocommerce-cart .cart-collaterals .shipping_calculator .button {}
+.woocommerce-cart .cart-collaterals .shipping_calculator #wp_page_numbers li a {}
+#wp_page_numbers li .woocommerce-cart .cart-collaterals .shipping_calculator a {}
+.woocommerce-cart .cart-collaterals .shipping_calculator .gsc-cursor-box .gsc-cursor-page {}
+.gsc-cursor-box .woocommerce-cart .cart-collaterals .shipping_calculator .gsc-cursor-page {}
+.woocommerce-cart .cart-collaterals .shipping_calculator .bbp-pagination .page-numbers {}
+.bbp-pagination .woocommerce-cart .cart-collaterals .shipping_calculator .page-numbers {}
+.woocommerce-checkout .cart-collaterals .shipping_calculator .button {}
+.woocommerce-checkout .cart-collaterals .shipping_calculator #wp_page_numbers li a {}
+#wp_page_numbers li .woocommerce-checkout .cart-collaterals .shipping_calculator a {}
+.woocommerce-checkout .cart-collaterals .shipping_calculator .gsc-cursor-box .gsc-cursor-page {}
+.gsc-cursor-box .woocommerce-checkout .cart-collaterals .shipping_calculator .gsc-cursor-page {}
+.woocommerce-checkout .cart-collaterals .shipping_calculator .bbp-pagination .page-numbers {}
+.bbp-pagination .woocommerce-checkout .cart-collaterals .shipping_calculator .page-numbers {}
+#add_payment_method .cart-collaterals .shipping_calculator .button {}
+#add_payment_method .cart-collaterals .shipping_calculator #wp_page_numbers li a {}
+#wp_page_numbers li #add_payment_method .cart-collaterals .shipping_calculator a {}
+#add_payment_method .cart-collaterals .shipping_calculator .gsc-cursor-box .gsc-cursor-page {}
+.gsc-cursor-box #add_payment_method .cart-collaterals .shipping_calculator .gsc-cursor-page {}
+#add_payment_method .cart-collaterals .shipping_calculator .bbp-pagination .page-numbers {}
+.bbp-pagination #add_payment_method .cart-collaterals .shipping_calculator .page-numbers {}
+.woocommerce-cart .cart-collaterals .shipping_calculator .shipping-calculator-button:after {}
+.woocommerce-checkout .cart-collaterals .shipping_calculator .shipping-calculator-button:after {}
+#add_payment_method .cart-collaterals .shipping_calculator .shipping-calculator-button:after {}
+.woocommerce-cart .cart-collaterals .cart_totals p small {}
+.woocommerce-checkout .cart-collaterals .cart_totals p small {}
+#add_payment_method .cart-collaterals .cart_totals p small {}
+.woocommerce-cart .cart-collaterals .cart_totals table {}
+.woocommerce-checkout .cart-collaterals .cart_totals table {}
+#add_payment_method .cart-collaterals .cart_totals table {}
+.woocommerce-cart .cart-collaterals .cart_totals table tr:first-child th {}
+.woocommerce-cart .cart-collaterals .cart_totals table tr:first-child td {}
+.woocommerce-checkout .cart-collaterals .cart_totals table tr:first-child th {}
+.woocommerce-checkout .cart-collaterals .cart_totals table tr:first-child td {}
+#add_payment_method .cart-collaterals .cart_totals table tr:first-child th {}
+#add_payment_method .cart-collaterals .cart_totals table tr:first-child td {}
+.woocommerce-cart .cart-collaterals .cart_totals table th {}
+.woocommerce-checkout .cart-collaterals .cart_totals table th {}
+#add_payment_method .cart-collaterals .cart_totals table th {}
+.woocommerce-cart .cart-collaterals .cart_totals table td {}
+.woocommerce-cart .cart-collaterals .cart_totals table th {}
+.woocommerce-checkout .cart-collaterals .cart_totals table td {}
+.woocommerce-checkout .cart-collaterals .cart_totals table th {}
+#add_payment_method .cart-collaterals .cart_totals table td {}
+#add_payment_method .cart-collaterals .cart_totals table th {}
+.woocommerce-cart .cart-collaterals .cart_totals table small {}
+.woocommerce-checkout .cart-collaterals .cart_totals table small {}
+#add_payment_method .cart-collaterals .cart_totals table small {}
+.woocommerce-cart .cart-collaterals .cart_totals table select {}
+.woocommerce-checkout .cart-collaterals .cart_totals table select {}
+#add_payment_method .cart-collaterals .cart_totals table select {}
+.woocommerce-cart .cart-collaterals .cart_totals .discount td {}
+.woocommerce-checkout .cart-collaterals .cart_totals .discount td {}
+#add_payment_method .cart-collaterals .cart_totals .discount td {}
+.woocommerce-cart .cart-collaterals .cart_totals tr td {}
+.woocommerce-cart .cart-collaterals .cart_totals tr th {}
+.woocommerce-checkout .cart-collaterals .cart_totals tr td {}
+.woocommerce-checkout .cart-collaterals .cart_totals tr th {}
+#add_payment_method .cart-collaterals .cart_totals tr td {}
+#add_payment_method .cart-collaterals .cart_totals tr th {}
+.woocommerce-cart .cart-collaterals .cross-sells ul.products li.product {}
+.woocommerce-checkout .cart-collaterals .cross-sells ul.products li.product {}
+#add_payment_method .cart-collaterals .cross-sells ul.products li.product {}
+.woocommerce-cart .checkout .col-2 h3#ship-to-different-address {}
+.woocommerce-checkout .checkout .col-2 h3#ship-to-different-address {}
+#add_payment_method .checkout .col-2 h3#ship-to-different-address {}
+.woocommerce-cart .checkout .col-2 .notes {}
+.woocommerce-checkout .checkout .col-2 .notes {}
+#add_payment_method .checkout .col-2 .notes {}
+.woocommerce-cart .checkout .col-2 .form-row-first {}
+.woocommerce-checkout .checkout .col-2 .form-row-first {}
+#add_payment_method .checkout .col-2 .form-row-first {}
+.woocommerce-cart .checkout .create-account small {}
+.woocommerce-checkout .checkout .create-account small {}
+#add_payment_method .checkout .create-account small {}
+.woocommerce-cart .checkout div.shipping-address {}
+.woocommerce-checkout .checkout div.shipping-address {}
+#add_payment_method .checkout div.shipping-address {}
+.woocommerce-cart .checkout .shipping_address {}
+.woocommerce-checkout .checkout .shipping_address {}
+#add_payment_method .checkout .shipping_address {}
+.woocommerce-cart #payment {}
+.woocommerce-checkout #payment {}
+#add_payment_method #payment {}
+.woocommerce-cart #payment ul.payment_methods {}
+.woocommerce-checkout #payment ul.payment_methods {}
+#add_payment_method #payment ul.payment_methods {}
+.woocommerce-cart #payment ul.payment_methods:before {}
+.woocommerce-cart #payment ul.payment_methods:after {}
+.woocommerce-checkout #payment ul.payment_methods:before {}
+.woocommerce-checkout #payment ul.payment_methods:after {}
+#add_payment_method #payment ul.payment_methods:before {}
+#add_payment_method #payment ul.payment_methods:after {}
+.woocommerce-cart #payment ul.payment_methods:after {}
+.woocommerce-checkout #payment ul.payment_methods:after {}
+#add_payment_method #payment ul.payment_methods:after {}
+.woocommerce-cart #payment ul.payment_methods li {}
+.woocommerce-checkout #payment ul.payment_methods li {}
+#add_payment_method #payment ul.payment_methods li {}
+.woocommerce-cart #payment ul.payment_methods li:before {}
+.woocommerce-cart #payment ul.payment_methods li:after {}
+.woocommerce-checkout #payment ul.payment_methods li:before {}
+.woocommerce-checkout #payment ul.payment_methods li:after {}
+#add_payment_method #payment ul.payment_methods li:before {}
+#add_payment_method #payment ul.payment_methods li:after {}
+.woocommerce-cart #payment ul.payment_methods li:after {}
+.woocommerce-checkout #payment ul.payment_methods li:after {}
+#add_payment_method #payment ul.payment_methods li:after {}
+.woocommerce-cart #payment ul.payment_methods li input {}
+.woocommerce-checkout #payment ul.payment_methods li input {}
+#add_payment_method #payment ul.payment_methods li input {}
+.woocommerce-cart #payment ul.payment_methods li img {}
+.woocommerce-checkout #payment ul.payment_methods li img {}
+#add_payment_method #payment ul.payment_methods li img {}
+.woocommerce-cart #payment ul.payment_methods li img+img {}
+.woocommerce-checkout #payment ul.payment_methods li img+img {}
+#add_payment_method #payment ul.payment_methods li img+img {}
+.woocommerce-cart #payment div.form-row {}
+.woocommerce-checkout #payment div.form-row {}
+#add_payment_method #payment div.form-row {}
+.woocommerce-cart #payment div.payment_box {}
+.woocommerce-checkout #payment div.payment_box {}
+#add_payment_method #payment div.payment_box {}
+.woocommerce-cart #payment div.payment_box input.input-text {}
+.woocommerce-cart #payment div.payment_box textarea {}
+.woocommerce-checkout #payment div.payment_box input.input-text {}
+.woocommerce-checkout #payment div.payment_box textarea {}
+#add_payment_method #payment div.payment_box input.input-text {}
+#add_payment_method #payment div.payment_box textarea {}
+.woocommerce-cart #payment div.payment_box ::-webkit-input-placeholder {}
+.woocommerce-checkout #payment div.payment_box ::-webkit-input-placeholder {}
+#add_payment_method #payment div.payment_box ::-webkit-input-placeholder {}
+.woocommerce-cart #payment div.payment_box :-moz-placeholder {}
+.woocommerce-checkout #payment div.payment_box :-moz-placeholder {}
+#add_payment_method #payment div.payment_box :-moz-placeholder {}
+.woocommerce-cart #payment div.payment_box :-ms-input-placeholder {}
+.woocommerce-checkout #payment div.payment_box :-ms-input-placeholder {}
+#add_payment_method #payment div.payment_box :-ms-input-placeholder {}
+.woocommerce-cart #payment div.payment_box .woocommerce-SavedPaymentMethods {}
+.woocommerce-checkout #payment div.payment_box .woocommerce-SavedPaymentMethods {}
+#add_payment_method #payment div.payment_box .woocommerce-SavedPaymentMethods {}
+.woocommerce-cart #payment div.payment_box .woocommerce-SavedPaymentMethods .woocommerce-SavedPaymentMethods-token {}
+.woocommerce-cart #payment div.payment_box .woocommerce-SavedPaymentMethods .woocommerce-SavedPaymentMethods-new {}
+.woocommerce-checkout #payment div.payment_box .woocommerce-SavedPaymentMethods .woocommerce-SavedPaymentMethods-token {}
+.woocommerce-checkout #payment div.payment_box .woocommerce-SavedPaymentMethods .woocommerce-SavedPaymentMethods-new {}
+#add_payment_method #payment div.payment_box .woocommerce-SavedPaymentMethods .woocommerce-SavedPaymentMethods-token {}
+#add_payment_method #payment div.payment_box .woocommerce-SavedPaymentMethods .woocommerce-SavedPaymentMethods-new {}
+.woocommerce-cart #payment div.payment_box .woocommerce-SavedPaymentMethods .woocommerce-SavedPaymentMethods-token label {}
+.woocommerce-cart #payment div.payment_box .woocommerce-SavedPaymentMethods .woocommerce-SavedPaymentMethods-new label {}
+.woocommerce-checkout #payment div.payment_box .woocommerce-SavedPaymentMethods .woocommerce-SavedPaymentMethods-token label {}
+.woocommerce-checkout #payment div.payment_box .woocommerce-SavedPaymentMethods .woocommerce-SavedPaymentMethods-new label {}
+#add_payment_method #payment div.payment_box .woocommerce-SavedPaymentMethods .woocommerce-SavedPaymentMethods-token label {}
+#add_payment_method #payment div.payment_box .woocommerce-SavedPaymentMethods .woocommerce-SavedPaymentMethods-new label {}
+.woocommerce-cart #payment div.payment_box .woocommerce-SavedPaymentMethods .woocommerce-SavedPaymentMethods-tokenInput {}
+.woocommerce-checkout #payment div.payment_box .woocommerce-SavedPaymentMethods .woocommerce-SavedPaymentMethods-tokenInput {}
+#add_payment_method #payment div.payment_box .woocommerce-SavedPaymentMethods .woocommerce-SavedPaymentMethods-tokenInput {}
+.woocommerce-cart #payment div.payment_box .wc-credit-card-form {}
+.woocommerce-checkout #payment div.payment_box .wc-credit-card-form {}
+#add_payment_method #payment div.payment_box .wc-credit-card-form {}
+.woocommerce-cart #payment div.payment_box .wc-credit-card-form-card-number {}
+.woocommerce-cart #payment div.payment_box .wc-credit-card-form-card-expiry {}
+.woocommerce-cart #payment div.payment_box .wc-credit-card-form-card-cvc {}
+.woocommerce-checkout #payment div.payment_box .wc-credit-card-form-card-number {}
+.woocommerce-checkout #payment div.payment_box .wc-credit-card-form-card-expiry {}
+.woocommerce-checkout #payment div.payment_box .wc-credit-card-form-card-cvc {}
+#add_payment_method #payment div.payment_box .wc-credit-card-form-card-number {}
+#add_payment_method #payment div.payment_box .wc-credit-card-form-card-expiry {}
+#add_payment_method #payment div.payment_box .wc-credit-card-form-card-cvc {}
+.woocommerce-cart #payment div.payment_box .wc-credit-card-form-card-number.visa {}
+.woocommerce-cart #payment div.payment_box .wc-credit-card-form-card-expiry.visa {}
+.woocommerce-cart #payment div.payment_box .wc-credit-card-form-card-cvc.visa {}
+.woocommerce-checkout #payment div.payment_box .wc-credit-card-form-card-number.visa {}
+.woocommerce-checkout #payment div.payment_box .wc-credit-card-form-card-expiry.visa {}
+.woocommerce-checkout #payment div.payment_box .wc-credit-card-form-card-cvc.visa {}
+#add_payment_method #payment div.payment_box .wc-credit-card-form-card-number.visa {}
+#add_payment_method #payment div.payment_box .wc-credit-card-form-card-expiry.visa {}
+#add_payment_method #payment div.payment_box .wc-credit-card-form-card-cvc.visa {}
+.woocommerce-cart #payment div.payment_box .wc-credit-card-form-card-number.mastercard {}
+.woocommerce-cart #payment div.payment_box .wc-credit-card-form-card-expiry.mastercard {}
+.woocommerce-cart #payment div.payment_box .wc-credit-card-form-card-cvc.mastercard {}
+.woocommerce-checkout #payment div.payment_box .wc-credit-card-form-card-number.mastercard {}
+.woocommerce-checkout #payment div.payment_box .wc-credit-card-form-card-expiry.mastercard {}
+.woocommerce-checkout #payment div.payment_box .wc-credit-card-form-card-cvc.mastercard {}
+#add_payment_method #payment div.payment_box .wc-credit-card-form-card-number.mastercard {}
+#add_payment_method #payment div.payment_box .wc-credit-card-form-card-expiry.mastercard {}
+#add_payment_method #payment div.payment_box .wc-credit-card-form-card-cvc.mastercard {}
+.woocommerce-cart #payment div.payment_box .wc-credit-card-form-card-number.laser {}
+.woocommerce-cart #payment div.payment_box .wc-credit-card-form-card-expiry.laser {}
+.woocommerce-cart #payment div.payment_box .wc-credit-card-form-card-cvc.laser {}
+.woocommerce-checkout #payment div.payment_box .wc-credit-card-form-card-number.laser {}
+.woocommerce-checkout #payment div.payment_box .wc-credit-card-form-card-expiry.laser {}
+.woocommerce-checkout #payment div.payment_box .wc-credit-card-form-card-cvc.laser {}
+#add_payment_method #payment div.payment_box .wc-credit-card-form-card-number.laser {}
+#add_payment_method #payment div.payment_box .wc-credit-card-form-card-expiry.laser {}
+#add_payment_method #payment div.payment_box .wc-credit-card-form-card-cvc.laser {}
+.woocommerce-cart #payment div.payment_box .wc-credit-card-form-card-number.dinersclub {}
+.woocommerce-cart #payment div.payment_box .wc-credit-card-form-card-expiry.dinersclub {}
+.woocommerce-cart #payment div.payment_box .wc-credit-card-form-card-cvc.dinersclub {}
+.woocommerce-checkout #payment div.payment_box .wc-credit-card-form-card-number.dinersclub {}
+.woocommerce-checkout #payment div.payment_box .wc-credit-card-form-card-expiry.dinersclub {}
+.woocommerce-checkout #payment div.payment_box .wc-credit-card-form-card-cvc.dinersclub {}
+#add_payment_method #payment div.payment_box .wc-credit-card-form-card-number.dinersclub {}
+#add_payment_method #payment div.payment_box .wc-credit-card-form-card-expiry.dinersclub {}
+#add_payment_method #payment div.payment_box .wc-credit-card-form-card-cvc.dinersclub {}
+.woocommerce-cart #payment div.payment_box .wc-credit-card-form-card-number.maestro {}
+.woocommerce-cart #payment div.payment_box .wc-credit-card-form-card-expiry.maestro {}
+.woocommerce-cart #payment div.payment_box .wc-credit-card-form-card-cvc.maestro {}
+.woocommerce-checkout #payment div.payment_box .wc-credit-card-form-card-number.maestro {}
+.woocommerce-checkout #payment div.payment_box .wc-credit-card-form-card-expiry.maestro {}
+.woocommerce-checkout #payment div.payment_box .wc-credit-card-form-card-cvc.maestro {}
+#add_payment_method #payment div.payment_box .wc-credit-card-form-card-number.maestro {}
+#add_payment_method #payment div.payment_box .wc-credit-card-form-card-expiry.maestro {}
+#add_payment_method #payment div.payment_box .wc-credit-card-form-card-cvc.maestro {}
+.woocommerce-cart #payment div.payment_box .wc-credit-card-form-card-number.jcb {}
+.woocommerce-cart #payment div.payment_box .wc-credit-card-form-card-expiry.jcb {}
+.woocommerce-cart #payment div.payment_box .wc-credit-card-form-card-cvc.jcb {}
+.woocommerce-checkout #payment div.payment_box .wc-credit-card-form-card-number.jcb {}
+.woocommerce-checkout #payment div.payment_box .wc-credit-card-form-card-expiry.jcb {}
+.woocommerce-checkout #payment div.payment_box .wc-credit-card-form-card-cvc.jcb {}
+#add_payment_method #payment div.payment_box .wc-credit-card-form-card-number.jcb {}
+#add_payment_method #payment div.payment_box .wc-credit-card-form-card-expiry.jcb {}
+#add_payment_method #payment div.payment_box .wc-credit-card-form-card-cvc.jcb {}
+.woocommerce-cart #payment div.payment_box .wc-credit-card-form-card-number.amex {}
+.woocommerce-cart #payment div.payment_box .wc-credit-card-form-card-expiry.amex {}
+.woocommerce-cart #payment div.payment_box .wc-credit-card-form-card-cvc.amex {}
+.woocommerce-checkout #payment div.payment_box .wc-credit-card-form-card-number.amex {}
+.woocommerce-checkout #payment div.payment_box .wc-credit-card-form-card-expiry.amex {}
+.woocommerce-checkout #payment div.payment_box .wc-credit-card-form-card-cvc.amex {}
+#add_payment_method #payment div.payment_box .wc-credit-card-form-card-number.amex {}
+#add_payment_method #payment div.payment_box .wc-credit-card-form-card-expiry.amex {}
+#add_payment_method #payment div.payment_box .wc-credit-card-form-card-cvc.amex {}
+.woocommerce-cart #payment div.payment_box .wc-credit-card-form-card-number.discover {}
+.woocommerce-cart #payment div.payment_box .wc-credit-card-form-card-expiry.discover {}
+.woocommerce-cart #payment div.payment_box .wc-credit-card-form-card-cvc.discover {}
+.woocommerce-checkout #payment div.payment_box .wc-credit-card-form-card-number.discover {}
+.woocommerce-checkout #payment div.payment_box .wc-credit-card-form-card-expiry.discover {}
+.woocommerce-checkout #payment div.payment_box .wc-credit-card-form-card-cvc.discover {}
+#add_payment_method #payment div.payment_box .wc-credit-card-form-card-number.discover {}
+#add_payment_method #payment div.payment_box .wc-credit-card-form-card-expiry.discover {}
+#add_payment_method #payment div.payment_box .wc-credit-card-form-card-cvc.discover {}
+.woocommerce-cart #payment div.payment_box span.help {}
+.woocommerce-checkout #payment div.payment_box span.help {}
+#add_payment_method #payment div.payment_box span.help {}
+.woocommerce-cart #payment div.payment_box .form-row {}
+.woocommerce-checkout #payment div.payment_box .form-row {}
+#add_payment_method #payment div.payment_box .form-row {}
+.woocommerce-cart #payment div.payment_box p:last-child {}
+.woocommerce-checkout #payment div.payment_box p:last-child {}
+#add_payment_method #payment div.payment_box p:last-child {}
+.woocommerce-cart #payment div.payment_box:before {}
+.woocommerce-checkout #payment div.payment_box:before {}
+#add_payment_method #payment div.payment_box:before {}
+.woocommerce-cart #payment .payment_method_paypal .about_paypal {}
+.woocommerce-checkout #payment .payment_method_paypal .about_paypal {}
+#add_payment_method #payment .payment_method_paypal .about_paypal {}
+.woocommerce-cart #payment .payment_method_paypal img {}
+.woocommerce-checkout #payment .payment_method_paypal img {}
+#add_payment_method #payment .payment_method_paypal img {}
+.woocommerce-password-strength {}
+.woocommerce-password-strength.strong {}
+.woocommerce-password-strength.short {}
+.woocommerce-password-strength.bad {}
+.woocommerce-password-strength.good {}
+.woocommerce-password-hint {}
+.product.has-default-attributes.has-children>.images {}
+#content.twentyeleven .woocommerce-pagination a {}
+.single-product .twentythirteen .entry-summary {}
+.single-product .twentythirteen #reply-title {}
+.single-product .twentythirteen #respond #commentform {}
+.single-product .twentythirteen p.stars {}
+.twentythirteen .woocommerce-breadcrumb {}
+.twentyfourteen ul.products li.product {}
+body:not(.search-results) .twentysixteen .entry-summary {}
+.twentysixteen .price ins {}
+.group:after {}
+.forum-titles:after {}
+.forums-module>.reply:after {}
+.screen-reader {}
+.screen-reader-text {}
+p:empty {}
+#wpadminbar .ab-label {}
+.hide {}
+.center {}
+.product_meta>span {}
+.form-allowed-tags {}
+.bbpress aside .module {}
+.bbpress aside .job>a {}
+.bbpress aside .woocommerce div.product {}
+.woocommerce .bbpress aside div.product {}
+.bbpress aside .type-forum {}
+.bbpress aside .type-topic {}
+.bbpress aside .type-reply {}
+.bbpress .breadcrumbs {}
+.bbpress .breadcrumbs a {}
+.bbpress .breadcrumbs a:hover {}
+.bbpress .breadcrumbs a:focus {}
+.bbpress .breadcrumbs a::after {}
+.bbpress .breadcrumbs>span>span>span:nth-child(1) {}
+.bbpress .breadcrumbs>span>span>span:nth-child(2) {}
+.bbpress .breadcrumbs>span>span>span:last-child {}
+.bbpress .breadcrumbs {}
+.bbpress .module-main {}
+.module.main-forums-column {}
+.job>a.main-forums-column {}
+.woocommerce div.main-forums-column.product {}
+.main-forums-column.type-forum {}
+.main-forums-column.type-topic {}
+.main-forums-column.type-reply {}
+.bbpress-title {}
+.bbpress-title a {}
+.bbpress-topic-title h4 {}
+.topic-select {}
+.bbp-topic-description {}
+.bbp-template-notice {}
+.bbp-header {}
+.bbp-header .bbp-reply-content {}
+.bbp-header .bbp-reply-content>span {}
+.bbp-header .bbp-reply-content {}
+.bbp-meta {}
+.bbp-meta .bbp-header {}
+.type-forum {}
+.type-topic {}
+.type-reply {}
+.bbp-reply-author {}
+.bbp-reply-content {}
+.bbp-reply-author {}
+.bbp-reply-content {}
+.reply-name {}
+.reply-date {}
+.forum-titles {}
+.forum-titles>li {}
+.forum-titles {}
+.bbp-topic-permalink {}
+.bbp-topic-permalink .page-numbers {}
+.bbp-topic-meta {}
+.bbp-forum-info {}
+.bbp-forum-topic-count {}
+.bbp-forum-reply-count {}
+.bbp-forum-freshness {}
+.bbp-forum-info {}
+.bbp-forum-info {}
+.bbp-forum-topic-count {}
+.bbp-forum-topic-count {}
+.bbp-forum-reply-count {}
+.bbp-forum-reply-count {}
+.bbp-forum-freshness {}
+.bbp-forum-freshness {}
+.bbp-topic-title {}
+.bbp-topic-voice-count {}
+.bbp-topic-reply-count {}
+.bbp-topic-freshness {}
+.forums-login-form {}
+.forums-login-form input[type='text'] {}
+.forums-login-form input[type='password'] {}
+.login-remember {}
+.bbp-pagination {}
+.bbp-pagination-links {}
+.page-numbers.current {}
+.page-numbers.dots {}
+.page-numbers.dots:hover {}
+.bbp-the-content-wrapper {}
+.bbplp-preview-buttons {}
+.bbplp-preview-buttons>a {}
+.bbplp-preview-buttons>a.active {}
+.bbplp-preview-buttons #bbplp-button-preview.active {}
+.bbp-form {}
+.bbp-form legend {}
+.bbp-form label {}
+.bbp-form input[type=checkbox]+label {}
+.bbp-form input[type=text] {}
+.bbp-form input[type=password] {}
+.bbp-form>div {}
+.bbp-form .description {}
+.quicktags-toolbar {}
+.bbp-the-content-wrapper {}
+.bbplp-preview-content {}
+.bbpl-preview-buttons {}
+.bbpl-preview-buttons>a {}
+.bbplp-preview-content {}
+.bbplp-preview-content pre {}
+.bbplp-preview-content br {}
+.user-title {}
+.bbp-user-body .feature-bury-replies {}
+.bbp-user-navigation {}
+.bbp-user-navigation>ul>li {}
+.bbp-user-navigation>ul>li>span>a {}
+.bbp-user-navigation>ul>li.current {}
+.entry-title {}
+.forums-module>.reply.buried {}
+.forums-module>.reply.buried:hover {}
+.forums-module>.reply.buried::after {}
+.forums-module>.reply.featured>* {}
+.forums-module>.reply.featured::after {}
+.forums-module>.reply.marked-as-good::after {}
+#bbpress-forums .featured-replies.unfeature {}
+#bbpress-forums .featured-replies.unbury {}
+.featured-replies.unfeature {}
+.featured-replies.unbury {}
+#bbpress-forums .featured-replies {}
+.featured-replies {}
+#bbpress-forums .featured.featured-replies.feature {}
+.featured.featured-replies.feature {}
+#bbpress-forums .featured.featured-replies.unfeature {}
+.featured.featured-replies.unfeature {}
+#bbpress-forums .buried.featured-replies.bury {}
+.buried.featured-replies.bury {}
+#bbpress-forums .buried.featured-replies.unbury {}
+.buried.featured-replies.unbury {}
+.feature-bury-replies .featured-replies.good.marked-as-good {}
+.feature-bury-replies .featured-replies.ungood {}
+.feature-bury-replies .featured-replies.ungood.marked-as-good {}
+.post-type-reply #the-list tr.featured {}
+.post-type-reply #the-list tr.buried {}
+#pass1-text {}
+#avatar-manager-upload {}
+aside {}
+header.top {}
+footer {}
+nav {}
+.google-ad {}
+.related-posts {}
+[class*='bsa'] {}
+.view-comments-button {}
+svg {}
+.button {}
+#wp_page_numbers li a {}
+.gsc-cursor-box .gsc-cursor-page {}
+.bbp-pagination .page-numbers {}
+.search {}
+.drag-wrap>iframe {}
+.sharedaddy {}
+.ui-resizable-handle {}
+#respond {}
+.link-graphic {}
+.comment-reply-link {}
+.drag-wrap::before {}
+#comments {}
+body {}
+.main-col {}
+.mega-header .author-byline-inside {}

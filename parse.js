@@ -3,8 +3,9 @@ const cssstats = require('cssstats')
 
 const basscss = 'basscss@8.0.2.min.css'
 const azDev = 'az-dev.css'
+const cssTricks = 'css-tricks.css'
 
-const css = fs.readFileSync(azDev, 'utf8')
+const css = fs.readFileSync(cssTricks, 'utf8')
 // console.log('basscssMin', basscssMin)
 const stats = cssstats(css)
 // console.log('!!stats!!\n', stats)
