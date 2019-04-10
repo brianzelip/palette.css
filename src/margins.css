@@ -1,0 +1,15 @@
+/* this is one of the values that should be configured by the user */
+
+:root {
+  /* vars go here to implement the spacing scale */
+}
+
+.m0 {
+  margin: 0;
+}
+
+.m1 {
+  margin: 0.5rem;
+  /* or */
+  margin: ;
+}
