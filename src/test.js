@@ -1,3 +1,5 @@
+const fs = require('fs');
+
 const classes = [
   'sm-mt3',
   'md-mt4',
@@ -98,3 +100,5 @@ const uniqueClasses = classes
   .join('\n');
 
 console.log(uniqueClasses);
+
+fs.writeFileSync('src/uClasses.csv', uniqueClasses);
