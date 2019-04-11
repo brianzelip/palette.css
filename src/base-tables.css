@@ -1,6 +1,10 @@
-/* Basscss Base Tables */
+:root {
+  --table-header-font-weight: var(--bold-font-weight);
+  --table-cell-padding-x: var(--space-2);
+  --table-cell-padding-y: 0.25rem;
 
-@import 'basscss-defaults';
+  --bold-font-weight: bold;
+}
 
 table {
   border-collapse: separate;
@@ -20,12 +24,9 @@ td {
   line-height: inherit;
 }
 
-th { vertical-align: bottom }
-td { vertical-align: top }
-
-:root {
-  --table-header-font-weight: var(--bold-font-weight);
-  --table-cell-padding-x: var(--space-2);
-  --table-cell-padding-y: .25rem;
+th {
+  vertical-align: bottom;
 }
-
+td {
+  vertical-align: top;
+}

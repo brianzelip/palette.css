@@ -1,6 +1,4 @@
-/* Basscss Color Tables */
-
-@import 'basscss-defaults';
+@import './vars/_borders.css';
 
 .table-light th,
 .table-light td {
@@ -12,4 +10,3 @@
 .table-light tr:last-child td {
   border-bottom: 0;
 }
-

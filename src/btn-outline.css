@@ -1,4 +1,5 @@
-/* Basscss Btn Outline */
+@import './vars/_borders.css';
+@import './vars/_shades.css';
 
 .btn-outline,
 .btn-outline:hover {
@@ -15,19 +16,10 @@
 
 .btn-outline:active {
   box-shadow: inset 0 0 0 20rem var(--darken-2),
-    inset 0 3px 4px 0 var(--darken-3),
-    0 0 1px var(--darken-2);
+    inset 0 3px 4px 0 var(--darken-3), 0 0 1px var(--darken-2);
 }
 
 .btn-outline:disabled,
 .btn-outline.is-disabled {
-  opacity: .5;
+  opacity: 0.5;
 }
-
-:root {
-  --border-radius: 3px;
-  --darken-1: rgba(0, 0, 0, .0625);
-  --darken-2: rgba(0, 0, 0, .125);
-  --darken-3: rgba(0, 0, 0, .25);
-}
-

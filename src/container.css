@@ -1,9 +1,9 @@
+:root {
+  --container-width: 64rem;
+}
+
 .container {
   max-width: var(--container-width);
   margin-left: auto;
   margin-right: auto;
-}
-
-:root {
-  --container-width: 64rem;
 }

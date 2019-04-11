@@ -1,6 +1,28 @@
-/* Basscss Base Typography */
+:root {
+  --font-family: 'Helvetica Neue', Helvetica, sans-serif;
+  --line-height: 1.5;
+  --body-font-size: 100%;
+  --heading-font-family: var(--font-family);
+  --heading-font-weight: bold;
+  --heading-line-height: 1.25;
+  --heading-margin-top: 1em;
+  --heading-margin-bottom: 0.5em;
+  --paragraph-margin-top: 0;
+  --paragraph-margin-bottom: var(--space-2);
+  --list-margin-top: 0;
+  --list-margin-bottom: var(--space-2);
+  --monospace-font-family: 'Source Code Pro', Consolas, monospace;
+  --pre-font-size: inherit;
+  --pre-margin-top: 0;
+  --pre-margin-bottom: var(--space-2);
 
-@import 'basscss-defaults';
+  --h1: 2rem;
+  --h2: 1.5rem;
+  --h3: 1.25rem;
+  --h4: 1rem;
+  --h5: 0.875rem;
+  --h6: 0.75rem;
+}
 
 body {
   font-family: var(--font-family);
@@ -8,7 +30,12 @@ body {
   font-size: var(--body-font-size);
 }
 
-h1, h2, h3, h4, h5, h6 {
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
   font-family: var(--heading-font-family);
   font-weight: var(--heading-font-weight);
   line-height: var(--heading-line-height);
@@ -21,12 +48,16 @@ p {
   margin-bottom: var(--paragraph-margin-bottom);
 }
 
-dl, ol, ul {
+dl,
+ol,
+ul {
   margin-top: var(--list-margin-top);
   margin-bottom: var(--list-margin-bottom);
 }
 
-pre, code, samp {
+pre,
+code,
+samp {
   font-family: var(--monospace-font-family);
   font-size: var(--pre-font-size);
 }
@@ -37,29 +68,21 @@ pre {
   overflow-x: scroll;
 }
 
-h1 { font-size: var(--h1) }
-h2 { font-size: var(--h2) }
-h3 { font-size: var(--h3) }
-h4 { font-size: var(--h4) }
-h5 { font-size: var(--h5) }
-h6 { font-size: var(--h6) }
-
-:root {
-  --font-family: 'Helvetica Neue', Helvetica, sans-serif;
-  --line-height: 1.5;
-  --body-font-size: 100%;
-  --heading-font-family: var(--font-family);
-  --heading-font-weight: bold;
-  --heading-line-height: 1.25;
-  --heading-margin-top: 1em;
-  --heading-margin-bottom: .5em;
-  --paragraph-margin-top: 0;
-  --paragraph-margin-bottom: var(--space-2);
-  --list-margin-top: 0;
-  --list-margin-bottom: var(--space-2);
-  --monospace-font-family: 'Source Code Pro', Consolas, monospace;
-  --pre-font-size: inherit;
-  --pre-margin-top: 0;
-  --pre-margin-bottom: var(--space-2);
+h1 {
+  font-size: var(--h1);
 }
-
+h2 {
+  font-size: var(--h2);
+}
+h3 {
+  font-size: var(--h3);
+}
+h4 {
+  font-size: var(--h4);
+}
+h5 {
+  font-size: var(--h5);
+}
+h6 {
+  font-size: var(--h6);
+}
