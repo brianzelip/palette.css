@@ -1,0 +1,11 @@
+:root {
+  --darken-1: rgba(0, 0, 0, 0.0625);
+  --darken-2: rgba(0, 0, 0, 0.125);
+  --darken-3: rgba(0, 0, 0, 0.25);
+  --darken-4: rgba(0, 0, 0, 0.5);
+
+  --lighten-1: rgba(255, 255, 255, 0.0625);
+  --lighten-2: rgba(255, 255, 255, 0.125);
+  --lighten-3: rgba(255, 255, 255, 0.25);
+  --lighten-4: rgba(255, 255, 255, 0.5);
+}
