@@ -1,0 +1,7 @@
+@import './_shades.css';
+
+:root {
+  --border-width: 1px;
+  --border-radius: 3px;
+  --border-color: var(--darken-2);
+}
