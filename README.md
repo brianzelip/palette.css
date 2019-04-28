@@ -41,7 +41,7 @@
 - provide optional default set of variable value css styles (theme-like)
 - provide optional configd set of variable value css styles (theme-like)
 
-This lib should site underneath the project needs, ie: import order should be:
+This lib should sit underneath the project needs, ie: import order should be:
 
 ```css
 @import 'palette.css';
@@ -66,6 +66,6 @@ FUCK IT! I'm just going to go with porting Basscss@7.1.1 into palette.css, and u
 
 This will start the ball rolling with figuring out how I want to change and enhance the project.
 
-**The rull for this first stage of basscss forking**: EACH CSS FILE SHOULD CONTAIN ALL THE VAR DEFINITIONS FOR ALL OF THE VARIABLES REFERENCED WITHIN
+**The rule for this first stage of basscss forking**: EACH CSS FILE SHOULD CONTAIN ALL THE VAR DEFINITIONS FOR ALL OF THE VARIABLES REFERENCED WITHIN
 
 **EXCEPTION TO ABOVE RULE**: When you find obvious duplicates like color and shading, etc., create a var file in src/vars/!
