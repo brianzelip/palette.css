@@ -51,4 +51,12 @@ Not all of the above forking is complete. However, while in mid-fork, I merged t
     - forms.css
     - highlight.css
     - highlight-dark.css
-    -
+    - input-range.css
+    - input-range.css
+    - flexbox.css (via addons/legacy/flex-object)
+    - responsive margins added to margin.css (from addons/modules/responsive-margins, NOT from addons/modules/legacy/responsive-white-space)
+    - responsive paddings added to padding.css (from addons/modules/responsive-paddings, NOT from addons/modules/legacy/responsive-white-space)
+    - responsive headings added to headings.css
+    - media-object - I'm deciding to NOT use this higher order flexbox module since i NEVER use it
+    - responsive-layout, added to layout.css
+    - responsive-typography, added to typography.css - ALL OF THE BASE TYPOGRAPHY STYLES ARE NOT INCLUDED IN THE RESPONSIVE MEDIA QUERIES
