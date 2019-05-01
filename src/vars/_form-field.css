@@ -1,0 +1,7 @@
+:root {
+  --form-field-font-family: inherit;
+  --form-field-font-size: 1rem;
+  --form-field-height: 2.25rem;
+  --form-field-padding-y: 0.5rem;
+  --form-field-padding-x: 0.5rem;
+}
