@@ -26,116 +26,116 @@
 }
 
 .m1 {
-  margin: var(--white-space-1);
+  margin: var(--space-1);
 }
 .mt1 {
-  margin-top: var(--white-space-1);
+  margin-top: var(--space-1);
 }
 .mr1 {
-  margin-right: var(--white-space-1);
+  margin-right: var(--space-1);
 }
 .mb1 {
-  margin-bottom: var(--white-space-1);
+  margin-bottom: var(--space-1);
 }
 .ml1 {
-  margin-left: var(--white-space-1);
+  margin-left: var(--space-1);
 }
 .mx1 {
-  margin-left: var(--white-space-1);
-  margin-right: var(--white-space-1);
+  margin-left: var(--space-1);
+  margin-right: var(--space-1);
 }
 .my1 {
-  margin-top: var(--white-space-1);
-  margin-bottom: var(--white-space-1);
+  margin-top: var(--space-1);
+  margin-bottom: var(--space-1);
 }
 
 .m2 {
-  margin: var(--white-space-2);
+  margin: var(--space-2);
 }
 .mt2 {
-  margin-top: var(--white-space-2);
+  margin-top: var(--space-2);
 }
 .mr2 {
-  margin-right: var(--white-space-2);
+  margin-right: var(--space-2);
 }
 .mb2 {
-  margin-bottom: var(--white-space-2);
+  margin-bottom: var(--space-2);
 }
 .ml2 {
-  margin-left: var(--white-space-2);
+  margin-left: var(--space-2);
 }
 .mx2 {
-  margin-left: var(--white-space-2);
-  margin-right: var(--white-space-2);
+  margin-left: var(--space-2);
+  margin-right: var(--space-2);
 }
 .my2 {
-  margin-top: var(--white-space-2);
-  margin-bottom: var(--white-space-2);
+  margin-top: var(--space-2);
+  margin-bottom: var(--space-2);
 }
 
 .m3 {
-  margin: var(--white-space-3);
+  margin: var(--space-3);
 }
 .mt3 {
-  margin-top: var(--white-space-3);
+  margin-top: var(--space-3);
 }
 .mr3 {
-  margin-right: var(--white-space-3);
+  margin-right: var(--space-3);
 }
 .mb3 {
-  margin-bottom: var(--white-space-3);
+  margin-bottom: var(--space-3);
 }
 .ml3 {
-  margin-left: var(--white-space-3);
+  margin-left: var(--space-3);
 }
 .mx3 {
-  margin-left: var(--white-space-3);
-  margin-right: var(--white-space-3);
+  margin-left: var(--space-3);
+  margin-right: var(--space-3);
 }
 .my3 {
-  margin-top: var(--white-space-3);
-  margin-bottom: var(--white-space-3);
+  margin-top: var(--space-3);
+  margin-bottom: var(--space-3);
 }
 
 .m4 {
-  margin: var(--white-space-4);
+  margin: var(--space-4);
 }
 .mt4 {
-  margin-top: var(--white-space-4);
+  margin-top: var(--space-4);
 }
 .mr4 {
-  margin-right: var(--white-space-4);
+  margin-right: var(--space-4);
 }
 .mb4 {
-  margin-bottom: var(--white-space-4);
+  margin-bottom: var(--space-4);
 }
 .ml4 {
-  margin-left: var(--white-space-4);
+  margin-left: var(--space-4);
 }
 .mx4 {
-  margin-left: var(--white-space-4);
-  margin-right: var(--white-space-4);
+  margin-left: var(--space-4);
+  margin-right: var(--space-4);
 }
 .my4 {
-  margin-top: var(--white-space-4);
-  margin-bottom: var(--white-space-4);
+  margin-top: var(--space-4);
+  margin-bottom: var(--space-4);
 }
 
 .mxn1 {
-  margin-left: calc(var(--white-space-1) * -1);
-  margin-right: calc(var(--white-space-1) * -1);
+  margin-left: calc(var(--space-1) * -1);
+  margin-right: calc(var(--space-1) * -1);
 }
 .mxn2 {
-  margin-left: calc(var(--white-space-2) * -1);
-  margin-right: calc(var(--white-space-2) * -1);
+  margin-left: calc(var(--space-2) * -1);
+  margin-right: calc(var(--space-2) * -1);
 }
 .mxn3 {
-  margin-left: calc(var(--white-space-3) * -1);
-  margin-right: calc(var(--white-space-3) * -1);
+  margin-left: calc(var(--space-3) * -1);
+  margin-right: calc(var(--space-3) * -1);
 }
 .mxn4 {
-  margin-left: calc(var(--white-space-4) * -1);
-  margin-right: calc(var(--white-space-4) * -1);
+  margin-left: calc(var(--space-4) * -1);
+  margin-right: calc(var(--space-4) * -1);
 }
 
 .m-auto {
@@ -178,6 +178,14 @@
   .sm-ml0 {
     margin-left: 0;
   }
+  .sm-mx0 {
+    margin-left: 0;
+    margin-right: 0;
+  }
+  .sm-my0 {
+    margin-top: 0;
+    margin-bottom: 0;
+  }
 
   .sm-m1 {
     margin: var(--space-1);
@@ -193,6 +201,14 @@
   }
   .sm-ml1 {
     margin-left: var(--space-1);
+  }
+  .sm-mx1 {
+    margin-left: var(--space-1);
+    margin-right: var(--space-1);
+  }
+  .sm-my1 {
+    margin-top: var(--space-1);
+    margin-bottom: var(--space-1);
   }
 
   .sm-m2 {
@@ -210,6 +226,14 @@
   .sm-ml2 {
     margin-left: var(--space-2);
   }
+  .sm-mx2 {
+    margin-left: var(--space-2);
+    margin-right: var(--space-2);
+  }
+  .sm-my2 {
+    margin-top: var(--space-2);
+    margin-bottom: var(--space-2);
+  }
 
   .sm-m3 {
     margin: var(--space-3);
@@ -226,6 +250,14 @@
   .sm-ml3 {
     margin-left: var(--space-3);
   }
+  .sm-mx3 {
+    margin-left: var(--space-3);
+    margin-right: var(--space-3);
+  }
+  .sm-my3 {
+    margin-top: var(--space-3);
+    margin-bottom: var(--space-3);
+  }
 
   .sm-m4 {
     margin: var(--space-4);
@@ -241,6 +273,14 @@
   }
   .sm-ml4 {
     margin-left: var(--space-4);
+  }
+  .sm-mx4 {
+    margin-left: var(--space-4);
+    margin-right: var(--space-4);
+  }
+  .sm-my4 {
+    margin-top: var(--space-4);
+    margin-bottom: var(--space-4);
   }
 
   .sm-mxn1 {
@@ -260,6 +300,12 @@
     margin-right: var(--space-4);
   }
 
+  .sm-ml-auto {
+    margin-left: auto;
+  }
+  .sm-mr-auto {
+    margin-right: auto;
+  }
   .sm-mx-auto {
     margin-left: auto;
     margin-right: auto;
@@ -282,6 +328,14 @@
   .md-ml0 {
     margin-left: 0;
   }
+  .md-mx0 {
+    margin-left: 0;
+    margin-right: 0;
+  }
+  .md-my0 {
+    margin-top: 0;
+    margin-bottom: 0;
+  }
 
   .md-m1 {
     margin: var(--space-1);
@@ -297,6 +351,14 @@
   }
   .md-ml1 {
     margin-left: var(--space-1);
+  }
+  .md-mx1 {
+    margin-left: var(--space-1);
+    margin-right: var(--space-1);
+  }
+  .md-my1 {
+    margin-top: var(--space-1);
+    margin-bottom: var(--space-1);
   }
 
   .md-m2 {
@@ -314,6 +376,14 @@
   .md-ml2 {
     margin-left: var(--space-2);
   }
+  .md-mx2 {
+    margin-left: var(--space-2);
+    margin-right: var(--space-2);
+  }
+  .md-my2 {
+    margin-top: var(--space-2);
+    margin-bottom: var(--space-2);
+  }
 
   .md-m3 {
     margin: var(--space-3);
@@ -330,6 +400,14 @@
   .md-ml3 {
     margin-left: var(--space-3);
   }
+  .md-mx3 {
+    margin-left: var(--space-3);
+    margin-right: var(--space-3);
+  }
+  .md-my3 {
+    margin-top: var(--space-3);
+    margin-bottom: var(--space-3);
+  }
 
   .md-m4 {
     margin: var(--space-4);
@@ -345,6 +423,14 @@
   }
   .md-ml4 {
     margin-left: var(--space-4);
+  }
+  .md-mx4 {
+    margin-left: var(--space-4);
+    margin-right: var(--space-4);
+  }
+  .md-my4 {
+    margin-top: var(--space-4);
+    margin-bottom: var(--space-4);
   }
 
   .md-mxn1 {
@@ -364,6 +450,12 @@
     margin-right: var(--space-4);
   }
 
+  .md-ml-auto {
+    margin-left: auto;
+  }
+  .md-mr-auto {
+    margin-right: auto;
+  }
   .md-mx-auto {
     margin-left: auto;
     margin-right: auto;
@@ -386,6 +478,14 @@
   .lg-ml0 {
     margin-left: 0;
   }
+  .lg-mx0 {
+    margin-left: 0;
+    margin-right: 0;
+  }
+  .lg-my0 {
+    margin-top: 0;
+    margin-bottom: 0;
+  }
 
   .lg-m1 {
     margin: var(--space-1);
@@ -401,6 +501,14 @@
   }
   .lg-ml1 {
     margin-left: var(--space-1);
+  }
+  .lg-mx1 {
+    margin-left: var(--space-1);
+    margin-right: var(--space-1);
+  }
+  .lg-my1 {
+    margin-top: var(--space-1);
+    margin-bottom: var(--space-1);
   }
 
   .lg-m2 {
@@ -418,6 +526,14 @@
   .lg-ml2 {
     margin-left: var(--space-2);
   }
+  .lg-mx2 {
+    margin-left: var(--space-2);
+    margin-right: var(--space-2);
+  }
+  .lg-my2 {
+    margin-top: var(--space-2);
+    margin-bottom: var(--space-2);
+  }
 
   .lg-m3 {
     margin: var(--space-3);
@@ -434,6 +550,14 @@
   .lg-ml3 {
     margin-left: var(--space-3);
   }
+  .lg-mx3 {
+    margin-left: var(--space-3);
+    margin-right: var(--space-3);
+  }
+  .lg-my3 {
+    margin-top: var(--space-3);
+    margin-bottom: var(--space-3);
+  }
 
   .lg-m4 {
     margin: var(--space-4);
@@ -449,6 +573,14 @@
   }
   .lg-ml4 {
     margin-left: var(--space-4);
+  }
+  .lg-mx4 {
+    margin-left: var(--space-4);
+    margin-right: var(--space-4);
+  }
+  .lg-my4 {
+    margin-top: var(--space-4);
+    margin-bottom: var(--space-4);
   }
 
   .lg-mxn1 {
@@ -468,6 +600,12 @@
     margin-right: var(--space-4);
   }
 
+  .lg-ml-auto {
+    margin-left: auto;
+  }
+  .lg-mr-auto {
+    margin-right: auto;
+  }
   .lg-mx-auto {
     margin-left: auto;
     margin-right: auto;
