@@ -40,3 +40,15 @@ palette-css.git had the basic steps taken:
 1. Manually fork Basscss@7.1.1 by copying over the main styles and variables from each of its modules
 
 Not all of the above forking is complete. However, while in mid-fork, I merged the two repos, and then cleaned up the old files that I don't need hanging around the project. The next branch will be about continuing to port basscss@7.1.1 into the project.
+
+## 2. Basscss addons
+
+- starting point: v0.0.2
+- ending point: v0.1.0
+- steps:
+  - copy over remaining basscss modules via [addons](https://github.com/basscss/addons):
+    - background-images.css
+    - forms.css
+    - highlight.css
+    - highlight-dark.css
+    -
