@@ -2,10 +2,9 @@
 @import './vars/_shades.css';
 
 :root {
-  --bold-font-weight: bold;
   --button-font-family: inherit;
   --button-font-size: inherit;
-  --button-font-weight: var(--bold-font-weight);
+  --button-font-weight: bold;
   --button-line-height: 1.125rem;
   --button-padding-y: 0.5rem;
   --button-padding-x: 1rem;
