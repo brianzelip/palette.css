@@ -1,0 +1,80 @@
+@import './vars/_borders.css';
+@import './vars/_form-field.css';
+@import './vars/_shades.css';
+
+:root {
+  --range-thumb-width: var(--form-field-padding-x);
+  --range-thumb-height: calc(
+    var(--form-field-height) - (var(--form-field-padding-y) * 2)
+  );
+  --range-track-height: calc(var(--form-field-padding-y) / 2);
+  --range-thumb-offset: calc(
+    var(--range-thumb-height) / -2 + (var(--range-track-height) / 2)
+  );
+  --range-thumb-pseudo-size: var(--form-field-height);
+}
+
+.input-range {
+  vertical-align: middle;
+  background-color: transparent;
+  padding-top: var(--form-field-padding-y);
+  padding-bottom: var(--form-field-padding-y);
+  color: inherit;
+  background-color: transparent;
+  -webkit-appearance: none;
+}
+
+.input-range::-webkit-slider-thumb {
+  position: relative;
+  width: var(--range-thumb-width);
+  height: var(--range-thumb-height);
+  cursor: pointer;
+  margin-top: var(--range-thumb-offset);
+  border-radius: var(--border-radius);
+  background-color: currentcolor;
+  -webkit-appearance: none;
+}
+
+/* Touch screen friendly pseudo element */
+.input-range::-webkit-slider-thumb:before {
+  content: '';
+  display: block;
+  position: absolute;
+  top: calc(
+    -0.5 * var(--range-thumb-pseudo-size) + (0.5 * var(--range-thumb-height))
+  );
+  left: calc(
+    (-0.5 * var(--range-thumb-pseudo-size)) + (0.5 * var(--range-thumb-width))
+  );
+  width: var(--range-thumb-pseudo-size);
+  height: var(--range-thumb-pseudo-size);
+  opacity: 0;
+}
+
+.input-range::-moz-range-thumb {
+  width: var(--range-thumb-width);
+  height: var(--range-thumb-height);
+  cursor: pointer;
+  border-radius: var(--border-radius);
+  border-color: transparent;
+  border-width: 0;
+  background-color: currentcolor;
+}
+
+.input-range::-webkit-slider-runnable-track {
+  height: var(--range-track-height);
+  height: var(--range-tshadesight);
+  cursor: pointer;
+  border-radius: var(--border-radius);
+}
+
+.input-range::-moz-range-track {
+  height: var(--range-track-height);
+  height: var(--range-tshadesight);
+  cursor: pointer;
+  border-radius: var(--border-radius);
+}
+
+.input-range:focus {
+  outline: none;
+}
