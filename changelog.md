@@ -117,3 +117,12 @@ Not all of the above forking is complete. However, while in mid-fork, I merged t
 
 @import 'basscss-defaults';
 ```
+
+## 6. Update README for public consumption
+
+- starting point: v0.1.3
+- ending point: v0.2.0
+- branch: master
+- steps:
+  - move readme text to notes.md
+  - update readme to explain a bit about the project to the public
