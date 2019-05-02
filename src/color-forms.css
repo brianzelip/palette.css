@@ -9,8 +9,6 @@
   --field-error-color: var(--red);
 }
 
-@import 'basscss-defaults';
-
 .field {
   border-style: solid;
   border-width: var(--border-width);
