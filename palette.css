@@ -1,33 +1,40 @@
 /*  palette.css */
 
-@import './src/align.css';
-@import './src/background-colors.css';
-@import './src/background-images.css';
-@import './src/base-forms.css';
 @import './src/base-reset.css';
-@import './src/base-tables.css';
 @import './src/base-typography.css';
-@import './src/border-colors.css';
-@import './src/borders.css';
-@import './src/btn-outline.css';
-@import './src/btn-primary.css';
-@import './src/btn.css';
+@import './src/base-forms.css';
+@import './src/base-tables.css';
 @import './src/color-base.css';
 @import './src/color-forms.css';
 @import './src/color-tables.css';
-@import './src/colors.css';
-@import './src/container.css';
-@import './src/flexbox.css';
-@import './src/forms.css';
-@import './src/headings.css';
-@import './src/highlight-dark.css';
-@import './src/highlight.css';
-@import './src/input-range.css';
+
+@import './src/btn.css';
+@import './src/btn-primary.css';
+@import './src/btn-outline.css';
+
+@import './src/type-scale.css';
+@import './src/typography.css';
+
 @import './src/layout.css';
+@import './src/align.css';
 @import './src/margin.css';
 @import './src/padding.css';
 @import './src/positions.css';
-@import './src/progress.css';
 @import './src/responsive-states.css';
-@import './src/typography.css';
+@import './src/container.css';
 @import './src/widths.css';
+@import './src/flexbox.css';
+@import './src/borders.css';
+
+@import './src/colors.css';
+@import './src/background-colors.css';
+@import './src/border-colors.css';
+
+@import './src/background-images.css';
+
+@import './src/forms.css';
+@import './src/input-range.css';
+@import './src/progress.css';
+
+@import './src/highlight-dark.css';
+@import './src/highlight.css';
