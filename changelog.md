@@ -76,3 +76,44 @@ Not all of the above forking is complete. However, while in mid-fork, I merged t
 - steps:
   - add 's' to var file name in import of base-forms.css
   - patch v bump
+
+## 5. Order src imports
+
+- starting point: v0.1.2
+- ending point: v0.1.3
+- branch: better-ordered-imports
+- steps:
+  - rename headings.css as type-scale.css, because the properties are not headings, but rather font-size, so it makes more sense to name it as such
+  - reorder the imports in palette.css like basscss:
+
+```css
+/* basscss/src/basscss.css */
+@import 'basscss-base-reset';
+@import 'basscss-base-forms';
+@import 'basscss-base-tables';
+@import 'basscss-base-typography';
+@import 'basscss-color-base';
+@import 'basscss-color-forms';
+@import 'basscss-color-tables';
+
+@import 'basscss-btn';
+@import 'basscss-btn-primary';
+@import 'basscss-btn-outline';
+
+@import 'basscss-type-scale';
+@import 'basscss-typography';
+@import 'basscss-layout';
+@import 'basscss-align';
+@import 'basscss-margin';
+@import 'basscss-padding';
+@import 'basscss-position';
+@import 'basscss-responsive-states';
+@import 'basscss-grid';
+@import 'flex-object';
+@import 'basscss-border';
+
+@import 'basscss-colors';
+@import 'basscss-background-colors';
+
+@import 'basscss-defaults';
+```
