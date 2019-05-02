@@ -68,3 +68,11 @@ Not all of the above forking is complete. However, while in mid-fork, I merged t
 - steps:
   - remove the importing of a basscss module that I forgot to delete earlier
   - patch v bump for npm
+
+## 4. Fix import path
+
+- starting point: v0.1.1
+- ending point: v0.1.2
+- steps:
+  - add 's' to var file name in import of base-forms.css
+  - patch v bump
