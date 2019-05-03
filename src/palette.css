@@ -1,40 +1,40 @@
 /*  palette.css */
 
-@import './src/base-reset.css';
-@import './src/base-typography.css';
-@import './src/base-forms.css';
-@import './src/base-tables.css';
-@import './src/color-base.css';
-@import './src/color-forms.css';
-@import './src/color-tables.css';
+@import './components/base-reset.css';
+@import './components/base-typography.css';
+@import './components/base-forms.css';
+@import './components/base-tables.css';
+@import './components/color-base.css';
+@import './components/color-forms.css';
+@import './components/color-tables.css';
 
-@import './src/btn.css';
-@import './src/btn-primary.css';
-@import './src/btn-outline.css';
+@import './components/btn.css';
+@import './components/btn-primary.css';
+@import './components/btn-outline.css';
 
-@import './src/type-scale.css';
-@import './src/typography.css';
+@import './components/type-scale.css';
+@import './components/typography.css';
 
-@import './src/layout.css';
-@import './src/align.css';
-@import './src/margin.css';
-@import './src/padding.css';
-@import './src/positions.css';
-@import './src/responsive-states.css';
-@import './src/container.css';
-@import './src/widths.css';
-@import './src/flexbox.css';
-@import './src/borders.css';
+@import './components/layout.css';
+@import './components/align.css';
+@import './components/margin.css';
+@import './components/padding.css';
+@import './components/positions.css';
+@import './components/responsive-states.css';
+@import './components/container.css';
+@import './components/widths.css';
+@import './components/flexbox.css';
+@import './components/borders.css';
 
-@import './src/colors.css';
-@import './src/background-colors.css';
-@import './src/border-colors.css';
+@import './components/colors.css';
+@import './components/background-colors.css';
+@import './components/border-colors.css';
 
-@import './src/background-images.css';
+@import './components/background-images.css';
 
-@import './src/forms.css';
-@import './src/input-range.css';
-@import './src/progress.css';
+@import './components/forms.css';
+@import './components/input-range.css';
+@import './components/progress.css';
 
-@import './src/highlight-dark.css';
-@import './src/highlight.css';
+@import './components/highlight-dark.css';
+@import './components/highlight.css';
