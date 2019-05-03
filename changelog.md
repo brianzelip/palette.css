@@ -126,3 +126,20 @@ Not all of the above forking is complete. However, while in mid-fork, I merged t
 - steps:
   - move readme text to notes.md
   - update readme to explain a bit about the project to the public
+
+## 6. Add postcss output file to module so projects that depened on palette.css don't have to also have to depend on postcss and plugins
+
+- starting point: v0.2.0
+- ending point: v0.3.0
+- branch: postcss-build
+
+Reasoning behind this work
+
+My first real attempt at using this package was in my homepage. **It didn't work!** I realized the reason is because parcel does **not** take care of installing the necessary postcss plugins like custom-media, etc. The proof was that custom media query variables were still found in the parcel built css file (dist/\*.css). The basscss file I was importing in that project was not src/basscss.css (which had all the imports of files which contained postcss features like custom media variables), but rather css/basscss.css (which is the postcss generated output of src/basscss.css). While I like not keeping generated files around in a repo, I prefer the user-centric approach where, the library package itself bears the brunt of the build dependencies, and provides the built file to users (along with the source files too).
+
+My approach will differ slightly from basscss, in that the directory structure will have `src/` and `dist/`, and the main property in package.json will point to `dist/palette.css`.
+
+- steps:
+  - move palette.css in current root dir to src
+  - move all current style modules to src/components/
+  - add all necessary postcss plugins and build scripts
