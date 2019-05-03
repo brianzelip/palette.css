@@ -14,7 +14,9 @@
   "author": "Brian Zelip <bzelip@gmail.com>",
   "license": "MIT",
   "dependencies": {},
-  "devDependencies": {},
+  "devDependencies": {
+    "postcss-cli": "^6.1.2"
+  },
   "bugs": {
     "url": "https://github.com/brianzelip/palette.css/issues"
   },
