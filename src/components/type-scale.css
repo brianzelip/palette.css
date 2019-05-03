@@ -1,4 +1,4 @@
-@import './vars/_breakpoints.css';
+@import '../vars/_breakpoints.css';
 
 :root {
   --h1: 2rem;

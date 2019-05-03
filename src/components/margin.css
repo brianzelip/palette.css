@@ -1,5 +1,5 @@
-@import './vars/_breakpoints.css';
-@import './vars/_space-scale.css';
+@import '../vars/_breakpoints.css';
+@import '../vars/_space-scale.css';
 
 .m0 {
   margin: 0;

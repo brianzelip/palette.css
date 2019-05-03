@@ -1,6 +1,6 @@
 /* Dark styles for Highlight.js */
 
-@import './vars/_borders.css';
+@import '../vars/_borders.css';
 
 :root {
   --hljs-comment: var(--silver);

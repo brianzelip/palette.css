@@ -1,6 +1,6 @@
-@import './vars/_borders.css';
-@import './vars/_form-fields.css';
-@import './vars/_shades.css';
+@import '../vars/_borders.css';
+@import '../vars/_form-fields.css';
+@import '../vars/_shades.css';
 
 :root {
   --range-thumb-width: var(--form-field-padding-x);

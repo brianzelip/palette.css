@@ -1,4 +1,4 @@
-@import './vars/_colors.css';
+@import '../vars/_colors.css';
 
 .black {
   color: var(--black);
