@@ -11,7 +11,7 @@
   ],
   "main": "palette.css",
   "scripts": {
-    "build": "postcss src/palette.css -u postcss-import postcss-custom-media postcss-custom-properties postcss-calc postcss-color-function autoprefixer -d dist"
+    "build": "postcss src/palette.css -d dist"
   },
   "author": "Brian Zelip <bzelip@gmail.com>",
   "license": "MIT",
