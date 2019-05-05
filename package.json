@@ -11,7 +11,9 @@
   ],
   "main": "palette.css",
   "scripts": {
-    "build": "postcss src/palette.css -d dist"
+    "build": "npm run build:unminified && npm run build:minified",
+    "build:unminified": "NODE_ENV=unminified postcss src/palette.css -d dist",
+    "build:minified": "NODE_ENV=minified postcss src/palette.css -d dist --ext .min.css"
   },
   "author": "Brian Zelip <bzelip@gmail.com>",
   "license": "MIT",
