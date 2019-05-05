@@ -143,3 +143,7 @@ My approach will differ slightly from basscss, in that the directory structure w
   - move palette.css in current root dir to src
   - move all current style modules to src/components/
   - add all necessary postcss plugins and build scripts
+    - install plugins
+    - create postcss.config.js
+    - create build script
+      - see [this postcss-custom-properties issue](https://github.com/postcss/postcss-custom-properties/issues/177) I raised that helped me get my postcss workflow working
