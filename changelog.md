@@ -147,3 +147,6 @@ My approach will differ slightly from basscss, in that the directory structure w
     - create postcss.config.js
     - create build script
       - see [this postcss-custom-properties issue](https://github.com/postcss/postcss-custom-properties/issues/177) I raised that helped me get my postcss workflow working
+      - create build scripts for unminified and minified versions
+        - the main diff between the two is [normalizeWhitespace](https://cssnano.co/optimisations/normalizewhitespace)
+        - other normal cssnano optimizations that are disabled are `mergeLonghand` and `mergeRules`, so that all rules are completely functionaly similar to their sources
