@@ -16,6 +16,7 @@
   "files": [
     "dist/*.css"
   ],
+  "main": "dist/palette.min.css",
   "scripts": {
     "build": "npm run build:unminified && npm run build:minified",
     "build:unminified": "NODE_ENV=unminified postcss src/palette.css -d dist",
