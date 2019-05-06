@@ -150,3 +150,14 @@ My approach will differ slightly from basscss, in that the directory structure w
       - create build scripts for unminified and minified versions
         - the main diff between the two is [normalizeWhitespace](https://cssnano.co/optimisations/normalizewhitespace)
         - other normal cssnano optimizations that are disabled are `mergeLonghand` and `mergeRules`, so that all rules are completely functionaly similar to their sources
+
+## 7. Remove `main` field in package.json to fix bug when installing palette.css
+
+- starting point: v0.3.0
+- ending point: v0.3.1
+- branch: remove-package-main
+
+I got a postcss error after installing v0.3.0 in zelip.me. I thought the problem might be [`browser` vs `main` fields](https://parceljs.org/module_resolution.html#package.json-%60browser%60-field). But no - the same problem existed when using [`browser` field](https://docs.npmjs.com/files/package.json#browser). Basscss v7.1.1 did not have a `main` or `browser` field. I think this is the key.
+
+- steps:
+  - remove the `main` field entirely from package.json
