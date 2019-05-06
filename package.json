@@ -14,7 +14,8 @@
     "OOCSS"
   ],
   "files": [
-    "dist/*.css"
+    "dist/palette.css",
+    "dist/palette.min.css"
   ],
   "main": "dist/palette.min.css",
   "scripts": {
