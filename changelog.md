@@ -161,3 +161,20 @@ I got a postcss error after installing v0.3.0 in zelip.me. I thought the problem
 
 - steps:
   - remove the `main` field entirely from package.json
+
+## 8. Use `files` field in package.json to fix parcel build error in a project that depends on palette.css
+
+- starting point: v0.3.1
+- ending point: v0.3.2
+- branch: package.files
+- steps:
+  - Add `files` field to package.json, including dist/\*.css
+  - Add `main` field denoting dist/palette.min.css
+
+The postcss error from v0.3.1 above still happens after deleting `package.main`. My current package.json set up seems to mirror [Basscss v7.1.1](https://github.com/basscss/basscss/blob/a07f9e5eceed0df3fc638ef99559f7decf63aad1/package.json) in that he has no `main` or `browser` fields. He does have a `style` field, but that is not conventional, and likely plays no part in there not being an error when I depend on basscss.
+
+I did read [this !so answer](https://stackoverflow.com/a/40375125/2145103) however, which suggests using the `files` field - "This way you'll end up with just the files you need in npm registry".
+
+See the package.json [`files` field docs](https://docs.npmjs.com/files/package.json#files).
+
+Let's try it out!
