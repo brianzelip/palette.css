@@ -1,5 +1,5 @@
-@import './vars/_borders.css';
-@import './vars/_shades.css';
+@import '../vars/_borders.css';
+@import '../vars/_shades.css';
 
 :root {
   --button-font-family: inherit;

@@ -1,6 +1,6 @@
-@import './vars/_borders.css';
-@import './vars/_form-fields.css';
-@import './vars/_shades.css';
+@import '../vars/_borders.css';
+@import '../vars/_form-fields.css';
+@import '../vars/_shades.css';
 
 :root {
   --range-thumb-width: var(--form-field-padding-x);
@@ -63,16 +63,16 @@
 
 .input-range::-webkit-slider-runnable-track {
   height: var(--range-track-height);
-  height: var(--range-tshadesight);
   cursor: pointer;
   border-radius: var(--border-radius);
+  background-color: var(--darken-3);
 }
 
 .input-range::-moz-range-track {
   height: var(--range-track-height);
-  height: var(--range-tshadesight);
   cursor: pointer;
   border-radius: var(--border-radius);
+  background-color: var(--darken-3);
 }
 
 .input-range:focus {

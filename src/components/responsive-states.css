@@ -1,4 +1,4 @@
-@import './vars/_breakpoints.css';
+@import '../vars/_breakpoints.css';
 
 .sm-show,
 .md-show,

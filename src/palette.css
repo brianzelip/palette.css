@@ -1,0 +1,40 @@
+/*! palette.css | https://github.com/brianzelip/palette.css | MIT License */
+
+@import './components/base-reset.css';
+@import './components/base-typography.css';
+@import './components/base-forms.css';
+@import './components/base-tables.css';
+@import './components/color-base.css';
+@import './components/color-forms.css';
+@import './components/color-tables.css';
+
+@import './components/btn.css';
+@import './components/btn-primary.css';
+@import './components/btn-outline.css';
+
+@import './components/type-scale.css';
+@import './components/typography.css';
+
+@import './components/layout.css';
+@import './components/align.css';
+@import './components/margin.css';
+@import './components/padding.css';
+@import './components/positions.css';
+@import './components/responsive-states.css';
+@import './components/container.css';
+@import './components/widths.css';
+@import './components/flexbox.css';
+@import './components/borders.css';
+
+@import './components/colors.css';
+@import './components/background-colors.css';
+@import './components/border-colors.css';
+
+@import './components/background-images.css';
+
+@import './components/forms.css';
+@import './components/input-range.css';
+@import './components/progress.css';
+
+@import './components/highlight-dark.css';
+@import './components/highlight.css';

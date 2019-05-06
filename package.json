@@ -1,20 +1,36 @@
 {
   "name": "palette.css",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "Atomic CSS library",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/brianzelip/palette.css.git"
   },
   "keywords": [
-    "atomic css"
+    "atomic css",
+    "css",
+    "utility classes",
+    "functional css",
+    "OOCSS"
   ],
-  "main": "palette.css",
-  "scripts": {},
+  "main": "dist/palette.min.css",
+  "scripts": {
+    "build": "npm run build:unminified && npm run build:minified",
+    "build:unminified": "NODE_ENV=unminified postcss src/palette.css -d dist",
+    "build:minified": "NODE_ENV=minified postcss src/palette.css -d dist --ext .min.css"
+  },
   "author": "Brian Zelip <bzelip@gmail.com>",
   "license": "MIT",
   "dependencies": {},
-  "devDependencies": {},
+  "devDependencies": {
+    "autoprefixer": "^9.5.1",
+    "cssnano": "^4.1.10",
+    "postcss-cli": "^6.1.2",
+    "postcss-color-function": "^4.1.0",
+    "postcss-custom-media": "^7.0.8",
+    "postcss-custom-properties": "^8.0.10",
+    "postcss-import": "^12.0.1"
+  },
   "bugs": {
     "url": "https://github.com/brianzelip/palette.css/issues"
   },

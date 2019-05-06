@@ -1,5 +1,5 @@
-@import './vars/_borders.css';
-@import './vars/_colors.css';
+@import '../vars/_borders.css';
+@import '../vars/_colors.css';
 
 :root {
   --body-color: var(--black);

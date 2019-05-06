@@ -1,5 +1,5 @@
-@import './vars/_breakpoints.css';
-@import './vars/_space-scale.css';
+@import '../vars/_breakpoints.css';
+@import '../vars/_space-scale.css';
 
 .p0 {
   padding: 0;

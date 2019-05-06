@@ -2,7 +2,7 @@
     - add the rest of the non-text-align styles to the media queries,
     see https://github.com/basscss/addons/blob/master/modules/responsive-typography/lib/sm-typography.css
 */
-@import './vars/_breakpoints.css';
+@import '../vars/_breakpoints.css';
 
 :root {
   --line-height-1: 1;

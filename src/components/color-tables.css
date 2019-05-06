@@ -1,4 +1,4 @@
-@import './vars/_borders.css';
+@import '../vars/_borders.css';
 
 .table-light th,
 .table-light td {
