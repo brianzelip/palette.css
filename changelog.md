@@ -202,3 +202,5 @@ I practiced with it a bunch, just to try to see the rediculousness of the error 
   ```css
   @import 'palette.css/dist/palette.css';
   ```
+- steps:
+  - get rid of `package.files`
