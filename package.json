@@ -13,10 +13,6 @@
     "functional css",
     "OOCSS"
   ],
-  "files": [
-    "dist/palette.css",
-    "dist/palette.min.css"
-  ],
   "main": "dist/palette.min.css",
   "scripts": {
     "build": "npm run build:unminified && npm run build:minified",
