@@ -178,3 +178,29 @@ I did read [this !so answer](https://stackoverflow.com/a/40375125/2145103) howev
 See the package.json [`files` field docs](https://docs.npmjs.com/files/package.json#files).
 
 Let's try it out!
+
+## 9. Undo changes to package.json from 7 and 8
+
+- starting point: v0.3.2
+- ending point: v0.3.3
+- branch: UNDO-IT-ALL
+
+WTF??!?!?!
+
+I've had this wierd thing happening to me, where palette.css pre v0.3.2 was throwing a postcss error via the parcel build.
+
+Then all of the sudden, it stopped throwing the error 🤷
+
+I practiced with it a bunch, just to try to see the rediculousness of the error situation, since I couldn't believe it was actually happening. Here is what happened before installing palette.css (with parcel v1.12.x) started working as expected:
+
+- both packages (basscss v7.1.1, and platte.css v0.3.0) had postcss.config.js
+- I was able to successfully import basscss this way:
+  ```css
+  @import 'basscss/css/basscss.css';
+  ```
+- I was _not_ able to successfully import palette.css this way:
+  ```css
+  @import 'palette.css/dist/palette.css';
+  ```
+- steps:
+  - get rid of `package.files`
