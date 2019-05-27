@@ -204,3 +204,13 @@ I practiced with it a bunch, just to try to see the rediculousness of the error 
   ```
 - steps:
   - get rid of `package.files`
+
+## 10. WTF PARCEL POSTCSS?!?!
+
+Summary: _redoing_ work from entry number 8 above 🤔. **WTF** parcel postcss build?!?!?!?
+
+- starting point: v0.3.3
+- ending point: v0.3.4
+- branch: wtf-parcel-postcss
+- steps:
+  - Add `files` array to package.json, keep dist/\*.css
